@@ -13,11 +13,10 @@ che l’utente possa riutilizzare i contenuti per usi commerciali). Allo
 schema del processo 1 vengono quindi aggiunte le ulteriori fasi di
 seguito descritte:
 
+|Image1|
 **Figura 5.**\ *Sintesi dei processi relativi all’abilitazione di User
 Generated Content*
 
-|Immagine che contiene testo Descrizione generata automaticamente|
-
-.. |Immagine che contiene testo Descrizione generata automaticamente| image:: ./media/image6.png
+.. |image1| image:: ../media/image6.png
    :width: 5.16071in
    :height: 2.04861in

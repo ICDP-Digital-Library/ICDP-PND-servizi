@@ -1,4 +1,4 @@
-5.2. Processo 2 - Servizi per la creazione di contenuti - Modello a valorizzazione culturale. 
+5.2. Processo 2 - Servizi per la creazione di contenuti - Modello a valorizzazione culturale.
 ==============================================================================================
 
 Poiché i benefici derivanti dalla liberalizzazione degli usi non
@@ -68,7 +68,7 @@ appare necessario valutare con attenzione la scelta di affidare tali
 modalità di valorizzazione esclusivamente alle piattaforme delle grandi
 aziende cosiddette “over the top”, molto performanti sul piano
 tecnologico ma altrettanto opache per quanto riguarda i modelli di
-gestione collegati [1]_ e per la forte intermediazione che esercitano
+gestione collegati [18]_ e per la forte intermediazione che esercitano
 tra l’istituzione che le utilizza e gli utenti; la “visibilità” non può
 essere infatti assunta come unico ritorno per l’amministrazione
 pubblica.
@@ -80,7 +80,6 @@ istituzioni, mettendo a disposizione servizi complementari
 all’esperienza fisica di visita, che valorizzano la proattività e la
 capacità generativa del pubblico.
 
-.. [1]
-    Del tutto sconosciuti sono i ricavi che vengono generati dalla
+.. [18] Del tutto sconosciuti sono i ricavi che vengono generati dalla
    monetizzazione dei dati degli utenti operate dalle società cosiddette
    Big Tech.

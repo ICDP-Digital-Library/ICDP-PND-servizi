@@ -15,7 +15,7 @@ culturale, ovvero:
 
 -  Una **classificazione per cluster di servizi**, definiti sulla base
    di un approccio metodologico funzionale alle attività e agli
-   obiettivi proposti nel PND [1]_:
+   obiettivi proposti nel PND [7]_:
 
 1. **Servizi digitali di consumo** (servizi *con* i dati): afferiscono
    alle funzioni di ricerca e condivisione delle informazioni
@@ -59,7 +59,7 @@ culturale, ovvero:
 -  Una **classificazione per livello di complessità della tecnologia
    sottostante**, partendo dall’assunto che gli istituti intenzionati a
    usufruire/offrire i prodotti/servizi descritti dovranno dotarsi di
-   tecnologie fondamentali [2]_ e del relativo know-how, che comprende
+   tecnologie fondamentali [8]_ e del relativo *know-how*, che comprende
    le competenze digitali; va per altro premesso che lo schema di
    classificazione opera di necessità attribuzioni arbitrarie, dettate
    dall’esigenza di creare cluster omogenei: molte delle tecnologie
@@ -76,13 +76,13 @@ Ciò premesso i livelli sono i seguenti:
    base tecnologica elementare (a titolo esemplificativo e non esaustivo
    le tecnologie del web 2.0, i database relazionali e non relazionali,
    i sistemi di restituzione basati su query full text, la produzione di
-   open data fino al livello 3 [3]_, i CMS [4]_, i social network, l’uso
+   open data fino al livello 3 [9]_, i CMS [10]_, i social network, l’uso
    di newsletter, etc.);
 
 2. **Servizi a medio impatto tecnologico**: servizi che necessitano di
    una base tecnologica di livello medio (a titolo esemplificativo e non
    esaustivo le tecnologie per la produzione di open data di livello 4,
-   l’interoperabilità attraverso web service, i CRM [5]_, i tour
+   l’interoperabilità attraverso web service, i CRM [11]_, i tour
    virtuali non interattivi, le soluzioni di e-commerce, i GIS, etc.);
 
 3. **Servizi ad alto impatto tecnologico**: servizi che esigono una base
@@ -120,8 +120,7 @@ modalità di fruizione per ciascun cluster di prodotti e servizi.
   la-definizione-di-prodotti-e-servizi-digitali/prodotti-e-servizi-a-valore-aggiunto.rst
   la-definizione-di-prodotti-e-servizi-digitali/servizi-digitali-per-la-gestione.rst
 
-.. [1]
-    L’approccio metodologico adottato è funzionale alle attività e agli
+.. [7] L’approccio metodologico adottato è funzionale alle attività e agli
    obiettivi preposti: non si tratta di una mappatura statica
    predefinita, ma di una configurazione relativa e soggettiva,
    elaborata in funzione della tassonomia dei beni culturali condivisa
@@ -129,20 +128,17 @@ modalità di fruizione per ciascun cluster di prodotti e servizi.
    adottabili in fase di classificazione ed è coerente con le finalità
    di valorizzazione promosse dal MiC.
 
-.. [2]
-    Considerata la rapidità del progresso tecnologico, le soluzioni
+.. [8] Considerata la rapidità del progresso tecnologico, le soluzioni
    citate sono parziali e in continuo aggiornamento; è quindi opportuno
    monitorare costantemente le nuove tendenze tecnologiche.
 
-.. [3]
-    Il modello per la produzione e gestione dei dati di tipo aperto,
+.. [9] Il modello per la produzione e gestione dei dati di tipo aperto,
    delineato da AGID nelle *Linee guida nazionali per la valorizzazione
    del patrimonio informativo pubblico* (2014), consiste in 5 livelli
    crescenti di qualità degli open data. Cfr.
    https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/modellodati.html#id3).
 
-.. [4]
-    CMS è l’acronimo di *Content Management System*, ovvero sistema di
+.. [10] CMS è l’acronimo di *Content Management System*, ovvero sistema di
    gestione dei contenuti. I CMS, come ad esempio Wordpress, hanno il
    compito di facilitare la gestione dei contenuti di siti web,
    svincolando il webmaster da conoscenze tecniche specifiche di
@@ -150,8 +146,7 @@ modalità di fruizione per ciascun cluster di prodotti e servizi.
    creare e modificare i contenuti del proprio sito web attraverso
    un’interfaccia appositamente progettata per la gestione di contenuti.
 
-.. [5]
-    CRM è l’acronimo di *Customer Relationship Management*, ovvero
+.. [11] CRM è l’acronimo di *Customer Relationship Management*, ovvero
    gestione delle relazioni con i clienti. I CRM sono software per la
    gestione centralizzata delle informazioni sui clienti, che aiutano
    un’azienda nell’acquisizione di nuovi clienti e nella gestione dei

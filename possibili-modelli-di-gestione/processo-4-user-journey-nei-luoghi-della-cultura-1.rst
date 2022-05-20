@@ -35,7 +35,7 @@ servizi digitali che attengono allo *user journey* sono:
    servizi digitali per lo *user journey*;
 
 -  Gestione esternalizzata attraverso acquisto di servizi SaaS
-   (*Software as a Service*\  [1]_): questa soluzione, adatta ai servizi
+   (*Software as a Service*\  [53]_): questa soluzione, adatta ai servizi
    che hanno raggiunto un sufficiente livello di standardizzazione,
    garantisce la chiarezza della pianificazione degli investimenti e dei
    costi di gestione, il costante aggiornamento tecnologico del
@@ -52,16 +52,16 @@ servizi digitali che attengono allo *user journey* sono:
    molti luoghi della cultura, che dovranno includere anche l’erogazione
    di servizi digitali per gli utenti. Particolarmente interessante in
    tal senso è la possibilità di sviluppare partenariati per
-   l’innovazione [2]_.
+   l’innovazione [54]_.
 
-.. [1]
+.. [53]
     È un modello di servizio del software applicativo dove un produttore
    di software sviluppa, opera (direttamente o tramite terze parti) e
    gestisce un’applicazione web. Con l’utilizzo di SaaS, il software
    utilizzato non è installato localmente, ma viene messo a disposizione
    dei clienti tramite una connessione Internet.
 
-.. [2]
+.. [54]
     Cfr. art. 65 del Codice dei contratti pubblici: “\ \ *1. Le
    amministrazioni aggiudicatrici e gli enti aggiudicatori possono
    ricorrere ai partenariati per l'innovazione nelle ipotesi in cui

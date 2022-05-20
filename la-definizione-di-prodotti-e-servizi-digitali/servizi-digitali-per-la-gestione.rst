@@ -55,6 +55,6 @@ opportunamente integrati, permettono di far sentire il visitatore in
 costante contatto con i luoghi della cultura, indipendentemente dal
 fatto che li abbia visitati in passato o pianifichi di farlo in futuro.
 
-.. |image0| image:: ./media/image20.jpeg
-.. |image1| image:: ./media/image21.jpeg
-.. |image2| image:: ./media/image22.jpeg
+.. |image0| image:: ../media/image20.jpeg
+.. |image1| image:: ../media/image21.jpeg
+.. |image2| image:: ../media/image22.jpeg

@@ -1,4 +1,4 @@
-5.3. Processo 3 – Prodotti e servizi a valore aggiunto – Modello a valorizzazione economica 
+5.3. Processo 3 – Prodotti e servizi a valore aggiunto – Modello a valorizzazione economica
 ============================================================================================
 
 Oggetto del presente paragrafo sono i *Prodotti e servizi a valore
@@ -24,7 +24,7 @@ economica per l’uso e il riuso dei contenuti culturali:
 
 2. Ricavi derivanti dalla concessione/vendita dei contenuti creativi
    generati a partire dai dati messi a disposizione dai luoghi della
-   cultural;
+   cultura;
 
 3. Ricavi generati dall’accesso a prodotti e servizi di fruizione.
 
@@ -32,7 +32,7 @@ Il primo modello (a) è quello maggiormente utilizzato dalle istituzioni
 culturali, dal momento che ricorre a una modalità tradizionale di
 valorizzazione economica: prevede la corresponsione di un corrispettivo
 economico a fronte della facoltà di utilizzare la riproduzione digitale
-di un bene culturale [1]_. Questa modalità è la più utilizzata dai
+di un bene culturale [19]_. Questa modalità è la più utilizzata dai
 luoghi della cultura, dal momento che non presenta particolari
 complessità – se non organizzative – nella sua attuazione. Tuttavia, le
 opportunità di questo modello di gestione sono maggiori quanto più è
@@ -56,7 +56,7 @@ Bridgeman Images VS Scala Archives*
 |image0|
 
 **Tabella 7.**\ *Strategie di licensing di due agenzie nazionali – RMN
-Grand Palais*\  [2]_ *VS BPK-Bildagentur*\  [3]_
+Grand Palais*\ [20]_ *VS BPK-Bildagentur*\ [21]_
 
 |image1|
 
@@ -79,7 +79,7 @@ proprietari delle opere riprodotte.
 
 In pratica le società commercializzano le riproduzioni digitali e le
 relative licenze d’uso (*rights management*) gestendo
-immagini/audio-video/banche dati [4]_, in cui buona parte dei processi
+immagini/audio-video/banche dati [22]_, in cui buona parte dei processi
 di distribuzione e intermediazione (dalla richiesta dei preventivi
 all’emissione dei contratti, sino ai pagamenti) è automatizzata e
 gestita attraverso canali e soluzioni digitali.
@@ -103,9 +103,9 @@ considerato un caso gestionale esemplare:
 +-----------------------------------+-----------------------------------+
 |                                   | **Getty Images**                  |
 +===================================+===================================+
-| **Oggetto del servizio**          | -  `Creative Royalty              |
-|                                   |    Free <https://www.gettyimages. |
-|                                   | it/solutions/it/creative>`__\ *:* |
+| **Oggetto del servizio**          |    Creative Royalty               |
+|                                   |    Free `<https://www.gettyimages.|
+|                                   |it/solutions/it/creative>`__\:     |
 |                                   |    Immagini e video “creative”    |
 |                                   |    che non prevendono il          |
 |                                   |    pagamento di *royalty*,        |
@@ -321,7 +321,7 @@ prodotti/servizi*
 |                                   |    Content.*                      |
 |                                   |                                   |
 |                                   | *Reference: The Metropolitan      |
-|                                   | Museum of Art*\  [35]_            |
+|                                   | Museum of Art*\  [23]_            |
 |                                   |                                   |
 |                                   | -  **Banche dati di servizio** e  |
 |                                   |    **Big data: FREEMIUM,** con 3  |
@@ -347,43 +347,43 @@ prodotti/servizi*
 |                                   |                                   |
 |                                   | *Reference: Interpol (Stolen      |
 |                                   | works of art                      |
-|                                   | database*\  [36]_\ *),            |
-|                                   | ArchINFORM*\  [37]_\ *,           |
-|                                   | ICONEM*\  [38]_\ *, National      |
+|                                   | database*\  [24]_\ *),            |
+|                                   | ArchINFORM*\  [25]_\ *,           |
+|                                   | ICONEM*\  [26]_\ *, National      |
 |                                   | Center for Arts and Research      |
-|                                   | (DataArts)*\  [39]_\ *,           |
-|                                   | Artprice*\  [40]_\ *, Bridgeman   |
-|                                   | Images*\  [41]_\ *, Getty         |
-|                                   | Images*\  [42]_\ *,               |
-|                                   | Spotify*\  [43]_                  |
+|                                   | (DataArts)*\  [27]_\ *,           |
+|                                   | Artprice*\  [28]_\ *, Bridgeman   |
+|                                   | Images*\  [29]_\ *, Getty         |
+|                                   | Images*\  [30]_\ *,               |
+|                                   | Spotify*\  [31]_                  |
 |                                   |                                   |
 |                                   | **Servizi di crowdsourcing:       |
 |                                   | LIBERA FRUIZIONE + MEMBERSHIP**   |
 |                                   |                                   |
 |                                   | *Reference: V&A Museum            |
 |                                   | (Deciphering                      |
-|                                   | Dickens)*\  [44]_\ *,             |
-|                                   | Patreon*\  [45]_                  |
+|                                   | Dickens)*\  [32]_\ *,             |
+|                                   | Patreon*\  [33]_                  |
 +-----------------------------------+-----------------------------------+
 | **Prodotti espositivi**           | -  **Digital travelling           |
 |                                   |    exhibitions: LICENSING**       |
 |                                   |                                   |
 |                                   | *Reference: Smithsonian           |
 |                                   | Institution Traveling Exhibition  |
-|                                   | Service (SITES)*\  [46]_          |
+|                                   | Service (SITES)*\  [34]_          |
 |                                   |                                   |
 |                                   | -  **Virtual tour: LIBERA         |
 |                                   |    FRUIZIONE**                    |
 |                                   |                                   |
 |                                   | *Reference: Getty Museum -        |
-|                                   | Xplorit*\  [47]_                  |
+|                                   | Xplorit*\  [35]_                  |
 |                                   |                                   |
 |                                   | -  **Online guided tour: PAY PER  |
 |                                   |    VIEW**                         |
 |                                   |                                   |
 |                                   | *Reference: Guggenheim New        |
-|                                   | York*\  [48]_\ *, Clio Muse       |
-|                                   | Tours*\  [49]_                    |
+|                                   | York*\  [36]_\ *, Clio Muse       |
+|                                   | Tours*\  [37]_                    |
 +-----------------------------------+-----------------------------------+
 | **Prodotti educativi**            | -  **FREEMIUM,** con 3 tipologie  |
 |                                   |    di servizi:                    |
@@ -409,9 +409,9 @@ prodotti/servizi*
 |                                   |    contenuti.                     |
 |                                   |                                   |
 |                                   | *Reference: Coursera e            |
-|                                   | MoMA*\  [50]_\ *, Van Gogh        |
-|                                   | Museum*\  [51]_\ *, Natural       |
-|                                   | History Museum*\  [52]_           |
+|                                   | MoMA*\  [38]_\ *, Van Gogh        |
+|                                   | Museum*\  [39]_\ *, Natural       |
+|                                   | History Museum*\  [40]_           |
 +-----------------------------------+-----------------------------------+
 | **Prodotti editoriali**           | -  **FREEMIUM,** con 3 tipologie  |
 |                                   |    di servizi:                    |
@@ -434,19 +434,19 @@ prodotti/servizi*
 |                                   |    accedere a pagamento a singoli |
 |                                   |    contenuti.                     |
 |                                   |                                   |
-|                                   | *Reference: Audible*\  [53]_\ *,  |
-|                                   | Kindle*\  [54]_\ *, Guggenheim    |
-|                                   | New York*\  [55]_\ *, British     |
-|                                   | Museum*\  [56]_                   |
+|                                   | *Reference: Audible*\  [41]_\ *,  |
+|                                   | Kindle*\  [42]_\ *, Guggenheim    |
+|                                   | New York*\  [43]_\ *, British     |
+|                                   | Museum*\  [44]_                   |
 +-----------------------------------+-----------------------------------+
 | **Prodotti commerciali –**        | -  **LICENSING “PURO”**           |
 |                                   |                                   |
-| **Advertising**                   | *Reference: KelOptic*\  [57]_     |
+| **Advertising**                   | *Reference: KelOptic*\  [45]_     |
 +-----------------------------------+-----------------------------------+
 | **Prodotti commerciali –**        | -  **LICENSING “PURO”**           |
 |                                   |                                   |
 | **Merchandising**                 | *Reference: Van Gogh              |
-|                                   | Museum-Manduka*\  [58]_           |
+|                                   | Museum-Manduka*\  [46]_           |
 +-----------------------------------+-----------------------------------+
 | **Prodotti commerciali –**        | -  **FREE MARKET**, con 2         |
 |                                   |    tipologie di servizi:          |
@@ -463,10 +463,10 @@ prodotti/servizi*
 |                                   |       (videoarte, digital art,    |
 |                                   |       NFTs, etc.).                |
 |                                   |                                   |
-|                                   | *Reference: Sedition*\  [59]_\ *, |
-|                                   | OpenSea*\  [60]_\ *, Whitworth    |
-|                                   | Art Gallery*\  [61]_\ *,          |
-|                                   | Hermitage*\  [62]_                |
+|                                   | *Reference: Sedition*\  [47]_\ *, |
+|                                   | OpenSea*\  [48]_\ *, Whitworth    |
+|                                   | Art Gallery*\  [49]_\ *,          |
+|                                   | Hermitage*\  [50]_                |
 |                                   |                                   |
 |                                   | b. Modello Digital Copies:        |
 |                                   |    Creazione, da parte di un      |
@@ -482,8 +482,8 @@ prodotti/servizi*
 |                                   |    share*.                        |
 |                                   |                                   |
 |                                   | *Reference:                       |
-|                                   | LaCollection*\  [63]_\ *,         |
-|                                   | Cinello*\  [64]_                  |
+|                                   | LaCollection*\  [51]_\ *,         |
+|                                   | Cinello*\  [52]_                  |
 +-----------------------------------+-----------------------------------+
 
 La Tabella 9 fornisce agli istituti un inquadramento dei modelli di
@@ -503,12 +503,10 @@ soluzioni applicabili, potrà scegliere i modelli di valorizzazione più
 appropriati in funzione della propria condizione e delle opportunità che
 si presentano.
 
-.. [1]
-    Questo è il modello che deriva dall’applicazione all’ambiente
+.. [19] Questo è il modello che deriva dall’applicazione all’ambiente
    digitale degli art. 107 e 108 del Codice dei beni culturali.
 
-.. [2]
-    In Francia è stata creata nel 1946 l’agenzia fotografica Réunion des
+.. [20] In Francia è stata creata nel 1946 l’agenzia fotografica Réunion des
    Musées Nationaux – Grand Palais (RMN), un’istituzione pubblica
    commerciale sotto l’autorità del Ministero della Cultura),
    ufficialmente responsabile della promozione delle collezioni dei
@@ -518,8 +516,7 @@ si presentano.
    espandere ulteriormente la collezione dell’agenzia, disponibile sul
    sito web.
 
-.. [3]
-    In Germania la BPK-Bildagentur (BPK) è un’impresa pubblica
+.. [21] In Germania la BPK-Bildagentur (BPK) è un’impresa pubblica
    fornitrice di servizi media facente capo alla Fondazione Prussiana
    del Patrimonio Culturale (Stiftung Preußischer Kulturbesitz). Fondata
    nel 1966, attualmente la BPK offre tutti i servizi di una moderna
@@ -527,202 +524,71 @@ si presentano.
    possiede una delle collezioni di foto storiche contemporanee più
    importanti d’Europa.
 
-.. [4]
-    Bisogna poi considerare che gli utenti professionali interessati ad
+.. [22] Bisogna poi considerare che gli utenti professionali interessati ad
    utilizzare le immagini sono disposti a pagare per le licenze e i
    servizi aggiuntivi offerti, come la possibilità di ricercare le
    immagini e ottenere i metadati.
 
-.. [5]
+.. [23] https://www.metmuseum.org/blogs/digital-underground/2017/open-access-at-the-met
 
-   https://www.metmuseum.org/blogs/digital-underground/2017/open-access-at-the-met
+.. [24] https://www.interpol.int/en/Crimes/Cultural-heritage-crime/Stolen-Works-of-Art-Database
 
-.. [6]
+.. [25] https://www.archinform.net/index.mobi.htm
 
-   https://www.interpol.int/en/Crimes/Cultural-heritage-crime/Stolen-Works-of-Art-Database
+.. [26] https://iconem.com/en/
 
-.. [7]
-    https://www.archinform.net/index.mobi.htm
+.. [27] https://culturaldata.org/smu-dataarts/about-dataarts/
 
-.. [8]
-    https://iconem.com/en/
+.. [28] https://www.artprice.com/
 
-.. [9]
-    https://culturaldata.org/smu-dataarts/about-dataarts/
+.. [29] https://www.bridgemanimages.com/en/
 
-.. [10]
-    https://www.artprice.com/
+.. [30] https://www.gettyimages.it/
 
-.. [11]
-    https://www.bridgemanimages.com/en/
+.. [31] https://www.spotify.com/it/
 
-.. [12]
-    https://www.gettyimages.it/
+.. [32] https://www.vam.ac.uk/research/projects/deciphering-dickens#overview
 
-.. [13]
-    https://www.spotify.com/it/
+.. [33] https://www.patreon.com/
 
-.. [14]
-    https://www.vam.ac.uk/research/projects/deciphering-dickens#overview
+.. [34] https://www.sites.si.edu/s/
 
-.. [15]
-    https://www.patreon.com/
+.. [35] https://www.xplorit.com/the-getty
 
-.. [16]
-    https://www.sites.si.edu/s/
+.. [36] https://www.guggenheim.org/group-visits
 
-.. [17]
-    https://www.xplorit.com/the-getty
+.. [37] https://cliomusetours.com/
 
-.. [18]
-    https://www.guggenheim.org/group-visits
+.. [38] https://www.coursera.org/moma
 
-.. [19]
-    https://cliomusetours.com/
+.. [39] https://www.vangoghmuseum.nl/en/art-and-stories/children
 
-.. [20]
-    https://www.coursera.org/moma
+.. [40] https://www.nhm.ac.uk/schools/virtual-workshops.html
 
-.. [21]
-    https://www.vangoghmuseum.nl/en/art-and-stories/children
+.. [41] https://www.audible.com/
 
-.. [22]
-    https://www.nhm.ac.uk/schools/virtual-workshops.html
+.. [42] https://www.amazon.it/kindle-dbs/hz/subscribe/ku
 
-.. [23]
-    https://www.audible.com/
+.. [43] https://archive.org/details/guggenheimmuseum
 
-.. [24]
-    https://www.amazon.it/kindle-dbs/hz/subscribe/ku
+.. [44] https://www.britishmuseum.org/research/publications/online-research-catalogues
 
-.. [25]
-    https://archive.org/details/guggenheimmuseum
+.. [45] https://www.trendhunter.com/trends/keloptic
 
-.. [26]
+.. [46] https://www.vangoghmuseum.nl/en/about/collaborate/van-gogh-museum-brand-licenses/collaboration-license-partners/manduka-x-van-gogh-museum
 
-   https://www.britishmuseum.org/research/publications/online-research-catalogues
+.. [47] https://www.seditionart.com/
 
-.. [27]
-    https://www.trendhunter.com/trends/keloptic
+.. [48] https://opensea.io/
 
-.. [28]
+.. [49] https://whitworth.vastari.com/theancientofdaysnft
 
-   https://www.vangoghmuseum.nl/en/about/collaborate/van-gogh-museum-brand-licenses/collaboration-license-partners/manduka-x-van-gogh-museum
+.. [50] `https://www.theartnewspaper.com/2021/09/13/we-have-no-doubt-nfts-are-art-after-selling-tokenised-leonardo-hermitage-plans-exhibition-of-born-digital-works. <https://www.theartnewspaper.com/2021/09/13/we-have-no-doubt-nfts-are-art-after-selling-tokenised-leonardo-hermitage-plans-exhibition-of-born-digital-works>`__
 
-.. [29]
-    https://www.seditionart.com/
+.. [51] https://lacollection.io/about/
 
-.. [30]
-    https://opensea.io/
+.. [52] https://www.cinello.com/it/
 
-.. [31]
-    https://whitworth.vastari.com/theancientofdaysnft
-
-.. [32]
-
-   `https://www.theartnewspaper.com/2021/09/13/we-have-no-doubt-nfts-are-art-after-selling-tokenised-leonardo-hermitage-plans-exhibition-of-born-digital-works. <https://www.theartnewspaper.com/2021/09/13/we-have-no-doubt-nfts-are-art-after-selling-tokenised-leonardo-hermitage-plans-exhibition-of-born-digital-works>`__
-
-.. [33]
-    https://lacollection.io/about/
-
-.. [34]
-    https://www.cinello.com/it/
-
-.. [35]
-
-   https://www.metmuseum.org/blogs/digital-underground/2017/open-access-at-the-met
-
-.. [36]
-
-   https://www.interpol.int/en/Crimes/Cultural-heritage-crime/Stolen-Works-of-Art-Database
-
-.. [37]
-    https://www.archinform.net/index.mobi.htm
-
-.. [38]
-    https://iconem.com/en/
-
-.. [39]
-    https://culturaldata.org/smu-dataarts/about-dataarts/
-
-.. [40]
-    https://www.artprice.com/
-
-.. [41]
-    https://www.bridgemanimages.com/en/
-
-.. [42]
-    https://www.gettyimages.it/
-
-.. [43]
-    https://www.spotify.com/it/
-
-.. [44]
-    https://www.vam.ac.uk/research/projects/deciphering-dickens#overview
-
-.. [45]
-    https://www.patreon.com/
-
-.. [46]
-    https://www.sites.si.edu/s/
-
-.. [47]
-    https://www.xplorit.com/the-getty
-
-.. [48]
-    https://www.guggenheim.org/group-visits
-
-.. [49]
-    https://cliomusetours.com/
-
-.. [50]
-    https://www.coursera.org/moma
-
-.. [51]
-    https://www.vangoghmuseum.nl/en/art-and-stories/children
-
-.. [52]
-    https://www.nhm.ac.uk/schools/virtual-workshops.html
-
-.. [53]
-    https://www.audible.com/
-
-.. [54]
-    https://www.amazon.it/kindle-dbs/hz/subscribe/ku
-
-.. [55]
-    https://archive.org/details/guggenheimmuseum
-
-.. [56]
-
-   https://www.britishmuseum.org/research/publications/online-research-catalogues
-
-.. [57]
-    https://www.trendhunter.com/trends/keloptic
-
-.. [58]
-
-   https://www.vangoghmuseum.nl/en/about/collaborate/van-gogh-museum-brand-licenses/collaboration-license-partners/manduka-x-van-gogh-museum
-
-.. [59]
-    https://www.seditionart.com/
-
-.. [60]
-    https://opensea.io/
-
-.. [61]
-    https://whitworth.vastari.com/theancientofdaysnft
-
-.. [62]
-
-   `https://www.theartnewspaper.com/2021/09/13/we-have-no-doubt-nfts-are-art-after-selling-tokenised-leonardo-hermitage-plans-exhibition-of-born-digital-works. <https://www.theartnewspaper.com/2021/09/13/we-have-no-doubt-nfts-are-art-after-selling-tokenised-leonardo-hermitage-plans-exhibition-of-born-digital-works>`__
-
-.. [63]
-    https://lacollection.io/about/
-
-.. [64]
-    https://www.cinello.com/it/
-
-.. |image0| image:: ./media/image24.jpeg
-.. |image1| image:: ./media/image25.jpeg
-.. |image2| image:: ./media/image26.jpeg
+.. |image0| image:: ../media/image24.jpeg
+.. |image1| image:: ../media/image25.jpeg
+.. |image2| image:: ../media/image26.jpeg

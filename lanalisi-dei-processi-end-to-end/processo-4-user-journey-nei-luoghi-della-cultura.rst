@@ -15,25 +15,21 @@ dell’utente-visitatore.
 
 Di seguito sono rappresentati i principali processi sottostanti lo *user
 journey*, distinguendo tre macro fasi: prima, durante e dopo la visita.
-
-**Figura 7.**\ *Mappatura dei processi relativi allo user journey*
-
 |image0|
-
+**Figura 7.**\ *Mappatura dei processi relativi allo user journey*
+|image1|
 **Figura 8.**\ *Mappatura dei processi relativi allo user journey – Pre
 visita*
-
-|image1|
-
+|image2|
 **Figura 9.**\ *Mappatura dei processi relativi allo user journey –
 Durante la visita*
 
-|image2|
+|image3|
 
 **Figura 10.**\ *Mappatura dei processi relativi allo user journey –
 Post visita*
 
-|image3|
+
 
 .. |image0| image:: ../media/image8.png
    :width: 5.25595in

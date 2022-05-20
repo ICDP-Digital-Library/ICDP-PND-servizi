@@ -44,7 +44,6 @@ sostenibilità operativa raggiungibile a livello nazionale, risulta
 cruciale la possibilità-necessità di “fare sistema” adottando strategie
 comuni o comunque confrontabili.
 
-.. [1]
-    Cfr. “Introduzione alla metodologia per la valutazione della
+.. [1] Cfr. “Introduzione alla metodologia per la valutazione della
    maturità digitale degli istituti culturali”, allegato tecnico n. 5
    del PND.

@@ -48,6 +48,6 @@ source* rispetto alle tecnologie chiuse, oppure tra gli applicativi SaaS
 internamente, per individuare le soluzioni che nel medio-lungo periodo
 sono più resistenti all’obsolescenza.
 
-.. |image0| image:: ./media/image12.jpeg
-.. |image1| image:: ./media/image13.jpeg
-.. |image2| image:: ./media/image14.jpeg
+.. |image0| image:: ../media/image12.jpeg
+.. |image1| image:: ../media/image13.jpeg
+.. |image2| image:: ../media/image14.jpeg

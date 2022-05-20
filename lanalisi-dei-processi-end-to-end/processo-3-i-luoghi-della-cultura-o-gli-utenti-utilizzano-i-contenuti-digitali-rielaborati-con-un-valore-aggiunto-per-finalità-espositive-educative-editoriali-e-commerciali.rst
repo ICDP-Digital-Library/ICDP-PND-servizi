@@ -7,8 +7,8 @@ cultura - anche in accordo con terze parti – sia dagli utenti finali,
 intesi in questo caso come tutti i “soggetti terzi” interessati. Ciò
 accade poiché nei riutilizzi dei contenuti digitali per finalità
 espositive, educative, editoriali e commerciali gli utenti non sono solo
-i consumatori finali ma possono essere anche *prosumer*\  [1]_ e
-imprese [2]_.
+i consumatori finali ma possono essere anche *prosumer*\ [5]_ e
+imprese [6]_.
 
 In particolare, nella prospettiva dei luoghi della cultura, qualora i
 servizi a valore aggiunto siano interamente erogati da terze parti
@@ -37,14 +37,12 @@ finalità espositive, educative, editoriali e commerciali, gli utenti non
 sono soltanto i consumatori finali ma possono essere anche *prosumer* e
 imprese.
 
-.. [1]
-    Neologismo derivante dalla crasi dei termini *producer* e
+.. [5] Neologismo derivante dalla crasi dei termini *producer* e
    *consumer*.
 
-.. [2]
-    Il concetto stesso di “utente”, infatti, si allarga progressivamente
+.. [6] Il concetto stesso di “utente”, infatti, si allarga progressivamente
    nel documento.
 
-.. |image0| image:: ./media/image7.png
+.. |image0| image:: ../media/image7.png
    :width: 5.05357in
    :height: 1.64572in

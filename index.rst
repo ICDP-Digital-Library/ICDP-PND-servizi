@@ -1,7 +1,7 @@
 **Piano nazionale di digitalizzazione del patrimonio culturale**
 
-Linee guida per la classificazione di prodotti e servizi digitali,
-processi e modelli di gestione
+Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione
+=================================================================================================
 
 |image0|
 

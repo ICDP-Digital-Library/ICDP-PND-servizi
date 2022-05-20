@@ -7,12 +7,12 @@ luoghi della cultura; il fine è un uso individuale dei contenuti fruiti,
 sia per scopi personali e di studio che commerciali, senza produzione di
 nuovi contenuti su cui costruire ulteriori catene del valore. In questo
 caso gli istituti devono considerare le seguenti fasi processuali:
-
+|image0|
 **Figura 4.**\ *Sintesi del processo relativi alla consultazione e alla
 navigazione dei contenuti digitali*
 
-|image0|
 
-.. |image0| image:: ./media/image5.JPG
+
+.. |image0| image:: ../media/image5.JPG
    :width: 5.41667in
    :height: 1.76824in

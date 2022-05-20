@@ -15,7 +15,7 @@ destinati a tutte le tipologie di target (B2I, B2B e B2C), in funzione
 delle loro esigenze specifiche.
 
 In questa sede è utile operare una distinzione in base alla *finalità* –
-piuttosto che in funzione della *forma* – di questi prodotti [1]_ e
+piuttosto che in funzione della *forma* – di questi prodotti [13]_ e
 servizi, dacché entrambi rappresentano rielaborazioni a valore aggiunto
 di contenuti digitali relativi al patrimonio culturale, ovvero:
 
@@ -57,7 +57,7 @@ disposizione delle banche dati sono:
 -  Promuovere la conoscenza del settore, rendendo accessibili analisi
    statistiche, ricerche, KPIs, mappe, dashboard e altre informazioni
    scientifiche e consentendo agli utenti di caricare i propri
-   dati [2]_.
+   dati [14]_.
 
 Inoltre, per quanto attiene ai prodotti espositivi, educativi,
 editoriali e commerciali, le opportunità di valorizzazione e
@@ -71,15 +71,13 @@ confrontarsi e dialogare con il patrimonio culturale con una modalità
 diversa (immersiva, coinvolgente, innovativa, stimolante, interattiva,
 personalizzata, etc.), attirando nuovi segmenti di pubblico.
 
-.. [1]
-    Si intendono sia prodotti fisici che digitali.
+.. [13] Si intendono sia prodotti fisici che digitali.
 
-.. [2]
-    Ottimi esempi sono i database open data di National Archive of Data
+.. [14] Ottimi esempi sono i database open data di National Archive of Data
    on Arts and Culture (NADAC) e Data Arts (Southern Methodist
    University, Dallas), che offrono dati e informazioni sul settore
    culturale e creativo negli Stati Uniti.
 
-.. |image0| image:: ./media/image17.jpeg
-.. |image1| image:: ./media/image18.jpeg
-.. |image2| image:: ./media/image19.jpeg
+.. |image0| image:: ../media/image17.jpeg
+.. |image1| image:: ../media/image18.jpeg
+.. |image2| image:: ../media/image19.jpeg

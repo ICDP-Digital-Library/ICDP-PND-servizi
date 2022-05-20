@@ -25,20 +25,20 @@ Prima di analizzare i singoli servizi-processi-modelli di gestione, la
 loro relazione è illustrata in una matrice (Fig. 1 e Fig. 2) fondata
 sull’identificazione di 4 processi principali:
 
-**Processo 1**: I luoghi della cultura mettono a disposizione degli
+- **Processo 1**: I luoghi della cultura mettono a disposizione degli
 utenti contenuti digitali per la consultazione e la navigazione;
 
-**Processo 2:** I luoghi della cultura mettono a disposizione contenuti
-digitali per creare ulteriori contenuti, scientifici o creativi [1]_, da
-parte degli utenti (*User Generated Content*\  [2]_);
+- **Processo 2:** I luoghi della cultura mettono a disposizione contenuti
+digitali per creare ulteriori contenuti, scientifici o creativi [2]_, da
+parte degli utenti (*User Generated Content*\ [3]_);
 
-**Processo 3:** I luoghi della cultura e/o gli utenti utilizzano i
+- **Processo 3:** I luoghi della cultura e/o gli utenti utilizzano i
 contenuti digitali e li rielaborano con un valore aggiunto per finalità
 espositive, educative, editoriali o commerciali;
 
-**Processo 4:** I luoghi della cultura offrono esperienze di visita agli
+- **Processo 4:** I luoghi della cultura offrono esperienze di visita agli
 utenti, sia nella dimensione fisica che digitale (*User
-journey*\  [3]_).
+journey*\  [4]_).
 
 Nei successivi capitoli (cfr. cap. 3 “Processi end-to-end”, cfr. cap. 4
 “Prodotti e servizi” e cfr. cap. 5 “Modelli di gestione”) saranno
@@ -71,13 +71,11 @@ dei servizi erogabili e le diverse competenze sottostanti, ma solo le
 principali soluzioni adottabili, necessarie per garantire la
 sostenibilità dell’erogazione del servizio.
 
-.. [1]
-    Un contenuto “autoriale” può essere di tipo scientifico o creativo:
+.. [2] Un contenuto “autoriale” può essere di tipo scientifico o creativo:
    pur trattandosi di ambiti e linguaggi differenti, sono entrambi
    interessanti ai fini culturali.
 
-.. [2]
-    *User Generated Content* (UGC), spesso associato al Web 2.0, è un
+.. [3] *User Generated Content* (UGC), spesso associato al Web 2.0, è un
    termine con cui ci si riferisce alle reti sociali, ai siti di social
    media, alle iniziative collaborative e ad una varietà di opere
    create, remixate e scambiate da singoli utenti (Elkin-Koren, *User
@@ -87,8 +85,7 @@ sostenibilità dell’erogazione del servizio.
    è creato al di fuori delle routine e pratiche professionali” (OECD,
    *Working Party on The Information Economy*, 2007).
 
-.. [3]
-    Lo *user journey*, che in italiano può essere denominato “percorso
+.. [4] Lo *user journey*, che in italiano può essere denominato “percorso
    utente”, è una tecnica utilizzata in particolare nei modelli di
    business e di marketing per conoscere e riprogettare l’esperienza di
    un cliente con un particolare prodotto o servizio, soprattutto

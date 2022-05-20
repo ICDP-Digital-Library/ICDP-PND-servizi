@@ -1,4 +1,4 @@
-5.1. Processo 1 - Servizi di consumo - Modello a libera fruizione. 
+5.1. Processo 1 - Servizi di consumo - Modello a libera fruizione.
 ===================================================================
 
 Nel corso degli ultimi anni numerose istituzioni culturali in ogni parte
@@ -20,7 +20,7 @@ Inoltre, si fa riferimento ai capitoli 4 e 5 del medesimo allegato per
 gli aspetti riguardanti l’adozione dei principi per il riuso di dati e
 contenuti digitali e le modalità di pubblicazione online delle
 riproduzioni digitali e di scelta delle licenze d’uso (cfr. MiC
-Standard, BY NC [1]_).
+Standard, BY NC [15]_).
 
 Ciò premesso, il modello della **“libera fruizione”** è il più
 appropriato per la gestione dei *Servizi digitali di consumo*, in
@@ -30,8 +30,8 @@ cultura. In questo caso il concetto di “libera fruizione” è da
 intendersi come accesso libero e gratuito, che prevede la possibilità di
 riutilizzare i contenuti digitali per fini non direttamente commerciali
 (a differenza di quanto avviene con il modello “Open Access” che invece
-lo consente [2]_), in coerenza con le disposizioni normative in
-materia [3]_.
+lo consente [16]_), in coerenza con le disposizioni normative in
+materia [17]_.
 
 La capacità di garantire un accesso esteso e libero a tutti gli utenti
 implica l’impossibilità di raggiungere un’autonoma sostenibilità
@@ -95,8 +95,7 @@ notevolmente la conoscenza e la consapevolezza del valore delle loro
 collezioni, consentendo di ottimizzare e ridurre gli attuali oneri
 gestionali.
 
-.. [1]
-    Etichetta che sintetizza il contenuto delle norme vigenti in materia
+.. [15] Etichetta che sintetizza il contenuto delle norme vigenti in materia
    di riproduzione di beni culturali pubblici nell’ambito dell’attività
    di pubblicazione in rete di immagini promossa dal Ministero.
    L’associazione di questa etichetta all’immagine di un bene culturale
@@ -106,12 +105,10 @@ gestionali.
    creativa, promozione della conoscenza del patrimonio culturale” ai
    sensi dell’art. 108, comma 3-bis del Codice dei beni culturali.
 
-.. [2]
-    Per *Open Access* o “accesso aperto” si intende l’accesso libero e
+.. [16] Per *Open Access* o “accesso aperto” si intende l’accesso libero e
    senza barriere al sapere scientifico, come dichiara nel 2002 la
    *Budapest Open Access Initiative*, i cui principi sono stati in
    seguito riaffermati dalla *Berlin Declaration on open access to
    knowledge in the Sciences and Humanities.*
 
-.. [3]
-    Cfr. art. 108, comma 3-bis del Codice dei beni culturali.
+.. [17] Cfr. art. 108, comma 3-bis del Codice dei beni culturali.

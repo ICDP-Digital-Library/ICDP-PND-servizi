@@ -6,11 +6,11 @@ possono attivare nel momento in cui rendono fruibili online dati,
 risorse e contenuti digitali del patrimonio culturale, secondo i
 macro-processi (Fig. 3) prima enunciati, descritti in dettaglio nei
 paragrafi seguenti.
-
+|image0|
 **Figura 3.**\ *Schema di sintesi delle fasi principali dei processi
 relativi alla creazione di servizi digitali*
 
-|image0|
+
 
 .. toctree::
   :maxdepth: 3
