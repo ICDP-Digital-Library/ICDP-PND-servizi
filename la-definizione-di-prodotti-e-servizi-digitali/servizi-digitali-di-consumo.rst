@@ -1,10 +1,10 @@
-4.1. Servizi digitali di consumo
-================================
+Servizi digitali di consumo
+===========================
 
-La prima categoria di servizi digitali di base è rappresentata dai
-servizi “di consumo” che, nella prospettiva di **fruizione** dei
-contenuti digitali da parte degli utenti, esprimono le possibilità di
-accedere a contenuti presenti nei sistemi di pubblicazione online.
+La prima categoria funzionale di servizi digitali è rappresentata dai
+servizi “di consumo” che, nella prospettiva di fruizione dei contenuti
+digitali da parte degli utenti, esprimono le possibilità di accedere a
+contenuti presenti nei sistemi di pubblicazione online.
 
 In linea generale tali servizi si rivolgono a tutte le tipologie di
 target (B2I, B2B e B2C), anche se i destinatari prioritari sono i
@@ -13,24 +13,184 @@ professionale o istituzionale (B2C). In questo processo l’utente è
 quindi inteso come “consumatore” (*consumer*).
 
 Nella tabella seguente, per facilitare la comprensione di questa
-tipologia di servizi e della loro utilità, i **Servizi digitali di
-consumo** sono classificati per funzione; per ciascuna di esse è stato
-fornito un esempio associato a un determinato livello di complessità
-della tecnologia sottostante.
+tipologia di servizi e della loro utilità, i servizi digitali di consumo
+sono classificati per funzione; per ciascuna di esse è stato fornito un
+esempio associato a un determinato livello di complessità della
+tecnologia sottostante.
 
-**Tabella 1.**\ *Prodotti realizzabili e servizi erogabili in formato
++---------------------+-----------------+-----------------+-----------------+
+| **SERVIZI           | **LIVELLO TECNOLOGICO SOTTESO**                     |
+| DIGITALI DI         |                                                     |
+| CONSUMO**           |                                                     |
++=====================+=================+=================+=================+
+| **Funzione**        | **Basso**       | **Medio**       | **Alto**         |
++---------------------+-----------------+-----------------+-----------------+
+| IDENTIFICAZIONE     |      X          |                 |       X         |
+|                     |                 |                 |                 |
+| -  Utente (log      |                 |                 |                 |
+|    in)              |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Bene             |                 |                 |                 |
+|    culturale        |                 |                 |                 |
+|    (certificazione  |                 |                 |                 |
+|    ID)              |                 |                 |                 |
++---------------------+-----------------+-----------------+-----------------+
+| RICERCA NEI         |       X         |      X          |       X         |
+| CATALOGHI           |                 |                 |                 |
+|                     |                 | X               | X               |
+| -  Ricerca          |                 |                 |                 |
+|    semplice e       |                 |                 | X               |
+|    avanzata         |                 |                 |                 |
+|    full text        |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Ricerca          |                 |                 |                 |
+|    semantica        |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Navigazione      |                 |                 |                 |
+|    a “faccette”     |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Consigli di      |                 |                 |                 |
+|    ricerca          |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Suggerimenti     |                 |                 |                 |
+|    di ricerca       |                 |                 |                 |
+|    personalizzati   |                 |                 |                 |
+|    in base alla     |                 |                 |                 |
+|    profilazione     |                 |                 |                 |
+|    dell’utente      |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Speech-to-text   |                 |                 |                 |
++---------------------+-----------------+-----------------+-----------------+
+| RESTITUZIONE        | X               | X               | X               |
+|                     |                 |                 |                 |
+| -  Non              |                 | X               |                 |
+|    personalizzabile |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Personalizzabile |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Geografica       |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Text-to-speech   |                 |                 |                 |
++---------------------+-----------------+-----------------+-----------------+
+| STAMPA              | X               |                 | X               |
+|                     |                 |                 |                 |
+| -  Stampa           | X               |                 |                 |
+|    immediata        |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Formato,         |                 |                 |                 |
+|    colore e         |                 |                 |                 |
+|    numero di        |                 |                 |                 |
+|    copie            |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Tool             |                 |                 |                 |
+|    modifica         |                 |                 |                 |
+|    immagini per     |                 |                 |                 |
+|    la stampa        |                 |                 |                 |
++---------------------+-----------------+-----------------+-----------------+
+| TRADUZIONE          | X               | X               |                 |
+|                     |                 |                 |                 |
+| -  Cambio           |                 |                 |                 |
+|    lingua           |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Traduzione       |                 |                 |                 |
+|    automatizzata    |                 |                 |                 |
++---------------------+-----------------+-----------------+-----------------+
+| REFERENZIAZIONE     |                 | X               | X               |
+|                     |                 |                 |                 |
+| -  Citazioni        |                 |                 |                 |
+|    generate         |                 |                 |                 |
+|    automaticamente  |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Esportazione     |                 |                 |                 |
+|    in formati       |                 |                 |                 |
+|    specifici        |                 |                 |                 |
+|    (RIS,            |                 |                 |                 |
+|    Bibtex)          |                 |                 |                 |
++---------------------+-----------------+-----------------+-----------------+
+| CONDIVISIONE        | X               |                 | X               |
+|                     |                 |                 |                 |
+| -  Social           |                 |                 | X               |
+|    network,         |                 |                 |                 |
+|    invio link       |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  iiiF, LOD        |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  API              |                 |                 |                 |
++---------------------+-----------------+-----------------+-----------------+
+| DOWNLOAD            | X               | X               |                 |
+|                     |                 |                 |                 |
+| -  Singolo          |                 | X               |                 |
+|    (jpg, pdf)       |                 |                 |                 |
+|                     |                 | X               |                 |
+| -  Massivo          |                 |                 |                 |
+|    (csv, xml)       |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Link esterni     |                 |                 |                 |
+|    a *image         |                 |                 |                 |
+|    banks*           |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Testo (txt)      |                 |                 |                 |
+|    con              |                 |                 |                 |
+|    riconoscimento   |                 |                 |                 |
+|    OCR              |                 |                 |                 |
++---------------------+-----------------+-----------------+-----------------+
+| DIGITAL RIGHTS      |                 | X               | X               |
+| MANAGEMENT          |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Licenze          |                 |                 |                 |
+|    machine          |                 |                 |                 |
+|    readable         |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Software che     |                 |                 |                 |
+|    proteggono i     |                 |                 |                 |
+|    contenuti        |                 |                 |                 |
+|    dalla            |                 |                 |                 |
+|    violazione       |                 |                 |                 |
+|    dei diritti      |                 |                 |                 |
+|    (es. Rights      |                 |                 |                 |
+|    Tracker)         |                 |                 |                 |
++---------------------+-----------------+-----------------+-----------------+
+| ADATTABILITA’       |                 | X               | X               |
+|                     |                 |                 |                 |
+| -  Sito web         |                 |                 |                 |
+|    responsive       |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  App dedicate     |                 |                 |                 |
++---------------------+-----------------+-----------------+-----------------+
+| AIUTO               | X               | X               | X               |
+|                     |                 |                 |                 |
+| -  FAQ, mail di     |                 |                 |                 |
+|    contatto         |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Tutorial         |                 |                 |                 |
+|                     |                 |                 |                 |
+| -  Chatbot,         |                 |                 |                 |
+|    user chat        |                 |                 |                 |
++---------------------+-----------------+-----------------+-----------------+
+| ANALYTICS           |                 | X               |                 |
+|                     |                 |                 |                 |
+| -  Reportistica     |                 |                 |                 |
+|    automatizzata    |                 |                 |                 |
+|    sulla            |                 |                 |                 |
+|    performance      |                 |                 |                 |
+|    dei              |                 |                 |                 |
+|    contenuti        |                 |                 |                 |
+|    (es. numero      |                 |                 |                 |
+|    di download,     |                 |                 |                 |
+|    numero di        |                 |                 |                 |
+|    condivisioni,    |                 |                 |                 |
+|    tipologie di     |                 |                 |                 |
+|    utenti,          |                 |                 |                 |
+|    ecc.)            |                 |                 |                 |
++---------------------+-----------------+-----------------+-----------------+
+
+*Tabella 1. Prodotti realizzabili e servizi erogabili in formato
 digitale: Servizi digitali di consumo*
-
-|image0|
-
-|image1|
-
-|image2|
 
 Tali servizi sono in linea di massima già presenti nei siti web degli
 istituti culturali nella loro versione “base”; l’evoluzione verso forme
 tecnologicamente più avanzate richiede un’attenta valutazione della
-capacità di presidio dei singoli istituti, sia in fase di
+capacità di presidio dei singoli istituti [1]_, sia in fase di
 progettazione/committenza che in fase di gestione, al fine di offrire
 servizi che non nascano obsoleti. Difatti, se nell’opinione comune il
 mondo digitale è sempre all’avanguardia – con i suoi software,
@@ -48,6 +208,5 @@ source* rispetto alle tecnologie chiuse, oppure tra gli applicativi SaaS
 internamente, per individuare le soluzioni che nel medio-lungo periodo
 sono più resistenti all’obsolescenza.
 
-.. |image0| image:: ../media/image12.jpeg
-.. |image1| image:: ../media/image13.jpeg
-.. |image2| image:: ../media/image14.jpeg
+.. [1] Cfr. *Introduzione alla metodologia per la valutazione della
+   maturità digitale degli istituti culturali,* allegato 5 del PND.

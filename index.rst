@@ -1,11 +1,14 @@
-**Piano nazionale di digitalizzazione del patrimonio culturale**
-
-Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione
-=================================================================================================
+============================================================
+Piano nazionale di digitalizzazione del patrimonio culturale
+============================================================
 
 |image0|
 
-**Versione in consultazione 2022-2023**
+**2022-2023**
+
+**Versione n.1.0 - giugno 2022**
+
+**Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione**
 
 .. toctree::
   :maxdepth: 3
@@ -13,11 +16,18 @@ Linee guida per la classificazione di prodotti e servizi digitali, processi e mo
 
   crediti.rst
   introduzione.rst
+
+
+.. toctree::
+  :maxdepth: 3
+  :numbered:
+
   la-relazione-tra-prodottiservizi-digitali-processi-e-modelli-di-gestione.rst
   lanalisi-dei-processi-end-to-end.rst
   la-definizione-di-prodotti-e-servizi-digitali.rst
   possibili-modelli-di-gestione.rst
   conclusioni.rst
+  appendice-i---selezione-di-esempi.rst
 
 .. |image0| image:: ./media/image1.png
    :width: 1.55347in
