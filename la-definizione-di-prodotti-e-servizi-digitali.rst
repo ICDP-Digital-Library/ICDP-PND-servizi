@@ -1,3 +1,5 @@
+.. _definizione_prodotti_servizi:
+
 La definizione di prodotti e servizi digitali
 =============================================
 
@@ -74,7 +76,7 @@ Nei paragrafi successivi vengono forniti maggiori dettagli sui prodotti
 realizzabili e i servizi erogabili in formato digitale, sviluppati a
 partire dalla prima delle tre diverse classificazioni sopracitate.
 
-Nel capitolo seguente (cfr. cap. 5), invece, viene presentata l’analisi
+Nel capitolo seguente (cfr. cap. :ref:`possibili_modelli_di_gestione`), invece, viene presentata l’analisi
 dettagliata dei modelli di gestione e delle modalità di fruizione per
 ciascun cluster di prodotti e servizi.
 

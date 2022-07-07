@@ -1,8 +1,10 @@
+.. _possibili_modelli_di_gestione:
+
 Possibili modelli di gestione
 =============================
 
-Sulla base dei processi *end-to-end* individuati (cfr. cap. 3) e dei
-servizi digitali erogabili (cfr. cap. 4), è possibile adottare modelli
+Sulla base dei processi *end-to-end* individuati (cfr. cap. :ref:`analisi_processi_end-to-end`) e dei
+servizi digitali erogabili (cfr. cap. :ref:`definizione_prodotti_servizi`), è possibile adottare modelli
 di gestione [1]_ capaci di armonizzare l’apertura inclusiva e
 democratica delle collezioni con gli scopi di valorizzazione, anche
 economica, del patrimonio culturale digitalizzato. L’obiettivo

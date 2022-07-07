@@ -12,21 +12,16 @@ Piano nazionale di digitalizzazione del patrimonio culturale
 
 .. toctree::
   :maxdepth: 3
+  :numbered:
   :caption: Indice dei contenuti
 
-  crediti.rst
   introduzione.rst
-
-
-.. toctree::
-  :maxdepth: 3
-  :numbered:
-
   la-relazione-tra-prodottiservizi-digitali-processi-e-modelli-di-gestione.rst
   lanalisi-dei-processi-end-to-end.rst
   la-definizione-di-prodotti-e-servizi-digitali.rst
   possibili-modelli-di-gestione.rst
   conclusioni.rst
+  crediti.rst
   appendice-i---selezione-di-esempi.rst
 
 .. |image0| image:: ./media/image1.png

@@ -41,5 +41,5 @@ alternative fondate su processi aggregativi e cooperativi che
 valorizzino le missioni istituzionali e i principi dei servizi di
 pubblica utilità.
 
-.. [1] Cfr. *Introduzione alla metodologia per la valutazione della
-   maturità digitale degli istituti culturali,* allegato 5 del PND.
+.. _Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali: https://docs.italia.it/italia/icdp/icdp-pnd-maturita-docs/
+.. [1] Cfr. `Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali`_, allegato 5 del PND.

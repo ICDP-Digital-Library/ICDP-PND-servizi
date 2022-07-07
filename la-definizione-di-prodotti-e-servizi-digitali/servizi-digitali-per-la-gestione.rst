@@ -1,3 +1,5 @@
+.. _servizi_digitali_per_la_gestione:
+
 Servizi digitali per la gestione
 ================================
 

@@ -50,7 +50,7 @@ Gli elementi inseriti in questo schema, espressione dei diversi processi
 relativi alla consultazione e alla navigazione dei contenuti digitali,
 poggiano necessariamente sugli aspetti imprescindibili della
 conservazione e della gestione dei contenuti digitali stessi (cfr. par.
-4.4).
+:ref:`servizi_digitali_per_la_gestione`).
 
 Il PND in più punti si sofferma sulla necessità che la messa a
 disposizione di contenuti digitali sia pensata nell’ottica dell’utente e
@@ -74,10 +74,10 @@ pubblici di riferimento e induce i luoghi della cultura a interrogarsi
 sulle modalità di coinvolgimento ottimali (un catalogo non consultato è
 un obiettivo fallito).
 
-.. [1] Cfr. *Linee guida per l’acquisizione, la circolazione e il riuso
-   delle riproduzioni dei beni culturali in ambiente digitale*, allegato
-   3 del PND.
+.. _Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale: https://docs.italia.it/italia/icdp/icdp-pnd-circolazione-riuso-docs/
 
-.. [2] Cfr. *Linee guida per la digitalizzazione del patrimonio culturale*,
-   allegato 1 del PND e *Linee guida per la redazione del Piano di
-   gestione dei dati (Data Management Plan)*, allegato 2 del PND.
+.. [1] Cfr. `Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale`_, allegato 3 del PND.
+
+.. _Linee guida per la digitalizzazione del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs/
+.. _Linee guida per la redazione del Piano di gestione dei dati: https://docs.italia.it/italia/icdp/icdp-pnd-dmp-docs/
+.. [2] Cfr. `Linee guida per la digitalizzazione del patrimonio culturale`_, allegato 1 del PND e `Linee guida per la redazione del Piano di gestione dei dati`_, allegato 2 del PND.

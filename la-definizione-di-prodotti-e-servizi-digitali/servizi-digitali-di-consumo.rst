@@ -208,5 +208,5 @@ source* rispetto alle tecnologie chiuse, oppure tra gli applicativi SaaS
 internamente, per individuare le soluzioni che nel medio-lungo periodo
 sono più resistenti all’obsolescenza.
 
-.. [1] Cfr. *Introduzione alla metodologia per la valutazione della
-   maturità digitale degli istituti culturali,* allegato 5 del PND.
+.. _Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali: https://docs.italia.it/italia/icdp/icdp-pnd-maturita-docs/
+.. [1] Cfr. `Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali`_, allegato 5 del PND.

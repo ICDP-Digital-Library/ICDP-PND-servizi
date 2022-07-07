@@ -1,3 +1,5 @@
+.. _servizi_digitali_per_la_creazione_di_contenuti:
+
 Servizi digitali per la creazione di contenuti
 ==============================================
 
@@ -20,7 +22,7 @@ caratterizzata da un sistema di flussi informativi e contenutistici
 multidirezionali e simultanei, all’interno dei quali operano comunità di
 utenti prosumer di dimensioni potenzialmente illimitate, per cui diviene
 utente qualsiasi soggetto interessato alla fruizione (e alla creazione,
-cfr. par. 4.2) di contenuti digitali, a prescindere dalla sua natura
+cfr. par. :ref:`servizi_digitali_per_la_creazione_di_contenuti`) di contenuti digitali, a prescindere dalla sua natura
 giuridica o economica.
 
 I servizi digitali per la creazione di contenuti costituiscono, dunque,

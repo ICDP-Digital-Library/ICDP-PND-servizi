@@ -5,7 +5,7 @@ Oggetto del presente paragrafo sono i *Prodotti e servizi a valore
 aggiunto*, derivanti dal processo mediante il quale i luoghi della
 cultura e/o gli utenti utilizzano i contenuti digitali e li rielaborano
 con un valore aggiunto per finalità espositive, educative, editoriali e
-commerciali (cfr. par. 4.3).
+commerciali (cfr. par. :ref:`servizi_digitali_per_la_creazione_di_contenuti`).
 
 In particolare, in questa sede appare opportuno considerare le politiche
 fondate sul concetto di “servizio” piuttosto che sulla tradizionale
@@ -389,7 +389,7 @@ Accanto ai due precedenti modelli di gestione, fondati sulla
 concessione/commercializzazione di immagini e contenuti (*Licensing*),
 nella tabella seguente sono descritti ulteriori modelli di
 valorizzazione economica (c) applicabili ai diversi cluster di prodotti
-e servizi illustrati in precedenza (cfr. cap. 4) e nello specifico:
+e servizi illustrati in precedenza (cfr. cap. :ref:`definizione_prodotti_servizi`) e nello specifico:
 
 -  **Fruizione pubblica** - Il modello prevede un accesso libero e
    gratuito, con la possibilità di riutilizzare i contenuti digitali per

@@ -45,7 +45,7 @@ quarto processo invece si riferisce alla valorizzazione con tecnologie
 digitali dell’esperienza di fruizione e quindi coesiste con gli altri
 processi e può compenetrarsi con essi.
 
-Nei successivi capitoli (cfr. cap. 3, cfr. cap. 4 e cfr. cap. 5) saranno
+Nei successivi capitoli (cfr. cap. :ref:`analisi_processi_end-to-end`, cfr. cap. :ref:`definizione_prodotti_servizi` e cfr. cap. :ref:`possibili_modelli_di_gestione`) saranno
 esaminate le implicazioni di ciascun processo nonché la relazione con i
 prodotti/servizi e i modelli di gestione applicabili.
 
@@ -151,7 +151,7 @@ separatamente: dovendo analizzare i micro-processi sottostanti e le
 soluzioni digitali applicabili all’esperienza fisica (o digitale) nei
 luoghi della cultura, l’attenzione si sposta sui servizi a supporto
 della gestione dello *user journey* nei luoghi della cultura. Nel
-relativo paragrafo (cfr. par. 3.4.) non vengono descritti tutti i
+relativo paragrafo (cfr. par. :ref:`processo_4`.) non vengono descritti tutti i
 possibili modelli di gestione, considerando la varietà dei servizi
 erogabili e le diverse competenze sottostanti, ma solo le principali
 soluzioni adottabili, necessarie per garantire la sostenibilità

@@ -1,3 +1,5 @@
+.. _Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale: https://docs.italia.it/italia/icdp/icdp-pnd-circolazione-riuso-docs/
+
 Processo 1 \| Servizi di consumo - Modello a fruizione pubblica
 ===============================================================
 
@@ -11,8 +13,7 @@ patrimoni culturali.
 Per quanto riguarda il contesto italiano, esiste una specifica
 disciplina d’uso delle riproduzioni dei beni culturali, per la cui
 disamina si rimanda al Quadro sinottico U1-U5 contenuto nell’allegato
-*Linee guida per l’acquisizione, la circolazione e il riuso delle
-riproduzioni dei beni culturali in ambiente digitale*, in cui sono
+`Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale`_, in cui sono
 riportate le discipline applicabili in relazione alle tipologie d’uso in
 caso di una riproduzione fedele (digitalizzazione) di un bene culturale
 pubblico in pubblico dominio. Inoltre, si fa riferimento ai capitoli 4 e
@@ -97,6 +98,4 @@ digitali ad alto valore aggiunto (come stimolo per l’indotto).
    Humanities.*
 
 .. [2] Come previsto all’art. 108, comma 3-bis del Codice dei beni
-   culturali. Cfr. inoltre *Linee guida per l’acquisizione, la
-   circolazione e il riuso delle riproduzioni dei beni culturali in
-   ambiente digitale,* allegato 3 del PND.
+   culturali. Cfr. inoltre `Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale`_, allegato 3 del PND.
