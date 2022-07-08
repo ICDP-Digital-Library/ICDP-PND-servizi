@@ -17,8 +17,8 @@ prodotto/servizio, secondo i seguenti passaggi:
 -  produzione e promozione del prodotto/servizio *online guided tour*;
 
 -  definizione del modello di gestione più appropriato, in funzione
-   delle modalità di utilizzo e dei target di utilizzatori (es. pay per
-   view).
+   delle modalità di utilizzo e dei target di utilizzatori (es. *pay per
+   view*).
 
 Prima di analizzare i singoli servizi-processi-modelli di gestione, la
 loro relazione è illustrata in una matrice (Fig. 1 e Fig. 2) fondata

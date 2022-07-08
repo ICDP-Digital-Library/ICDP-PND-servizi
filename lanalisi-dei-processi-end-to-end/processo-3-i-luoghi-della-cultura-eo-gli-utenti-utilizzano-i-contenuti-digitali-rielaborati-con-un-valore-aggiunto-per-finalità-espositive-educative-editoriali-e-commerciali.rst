@@ -91,7 +91,7 @@ altrettanto strategica per comprendere se il prodotto/servizio
 realizzato sia adeguato alle aspettative degli utenti e possa
 raggiungere le finalità programmate.
 
-.. [1] Il lemma prosumer è un neologismo anglosassone derivante dalla crasi
+.. [1] Il lemma *prosumer* è un neologismo anglosassone derivante dalla crasi
    dei termini *producer* e *consumer*. Il valore aggiunto che i
    prosumer realizzano può essere ricompreso nell’area dei prodotti (es.
    utilizzo i contenuti per produrre prodotti da mettere sul mercato),

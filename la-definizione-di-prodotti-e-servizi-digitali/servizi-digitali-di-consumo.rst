@@ -184,7 +184,7 @@ tecnologia sottostante.
 |    ecc.)            |                 |                 |                 |
 +---------------------+-----------------+-----------------+-----------------+
 
-*Tabella 12. Prodotti realizzabili e servizi erogabili in formato
+*Tabella 9. Prodotti realizzabili e servizi erogabili in formato
 digitale: Servizi digitali di consumo*
 
 Tali servizi sono in linea di massima già presenti nei siti web degli

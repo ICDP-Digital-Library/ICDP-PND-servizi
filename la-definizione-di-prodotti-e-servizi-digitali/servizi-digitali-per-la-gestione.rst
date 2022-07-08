@@ -143,7 +143,7 @@ visita), per facilitarne la comprensione e coglierne l’utilità.
 |                                   |    asset tracking)                |
 +-----------------------------------+-----------------------------------+
 
-*Tabella 11. Prodotti realizzabili e servizi erogabili in formato
+*Tabella 12. Prodotti realizzabili e servizi erogabili in formato
 digitale – Servizi digitali per la gestione*
 
 L’implementazione dei servizi innovativi nei processi di *back-end*

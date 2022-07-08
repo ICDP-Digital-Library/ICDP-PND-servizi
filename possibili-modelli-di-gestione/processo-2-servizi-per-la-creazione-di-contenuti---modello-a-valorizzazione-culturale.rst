@@ -9,7 +9,7 @@ fruizione del patrimonio culturale e la condivisione degli obiettivi di
 democratizzazione e inclusione sociale, meritano di essere approfondite
 anche le opportunità economiche derivanti dagli impieghi degli utenti
 delle risorse digitali finalizzati alla creazione di nuovi contenuti
-digitali (User Generated Content), che palesano ulteriori vantaggi.
+digitali (*User Generated Content*), che palesano ulteriori vantaggi.
 
 Anche nel caso dei *Servizi digitali per la creazione di contenuti*, una
 corretta ed efficace gestione è garantita dal modello **“a fruizione

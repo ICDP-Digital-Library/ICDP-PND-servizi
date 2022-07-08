@@ -82,7 +82,6 @@ ciascun cluster di prodotti e servizi.
 
 .. toctree::
   :maxdepth: 3
-  :numbered:
   :caption: Indice dei contenuti
 
   la-definizione-di-prodotti-e-servizi-digitali/servizi-digitali-di-consumo.rst

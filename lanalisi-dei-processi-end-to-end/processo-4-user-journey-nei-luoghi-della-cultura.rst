@@ -19,7 +19,7 @@ journey*, distinguendo ciò che accade prima, durante e dopo la visita.
 
 |image0|
 
-*Figura 7. Mappatura dei processi relativi allo user journey*
+*Figura 2. Mappatura dei processi relativi allo user journey*
 
 Di seguito sono descritte con maggior dettaglio le fasi del processo
 relativo al momento pre-visita. Particolare attenzione andrà messa nella
@@ -92,8 +92,7 @@ la gestione della fase pre-visita dello *user journey*.
 |                   |                  |      online)            |
 +-------------------+------------------+-------------------------+
 
-*Tabella 6. Mappatura dei processi relativi allo user journey – Pre
-visita*
+*Tabella 6. Mappatura dei processi relativi allo user journey – Pre-visita*
 
 Durante la visita i prodotti e i servizi digitali che possono essere
 offerti per migliorare l’esperienza sono molteplici; dal punto di vista

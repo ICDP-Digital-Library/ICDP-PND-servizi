@@ -63,7 +63,6 @@ servizi*
 
 .. toctree::
   :maxdepth: 3
-  :numbered:
   :caption: Indice dei contenuti
 
   possibili-modelli-di-gestione/processo-1-servizi-di-consumo---modello-a-fruizione-pubblica.rst

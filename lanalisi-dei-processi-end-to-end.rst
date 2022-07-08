@@ -16,7 +16,6 @@ alla creazione di servizi digitali*
 
 .. toctree::
   :maxdepth: 3
-  :numbered:
   :caption: Indice dei contenuti
 
   lanalisi-dei-processi-end-to-end/processo-1-i-luoghi-della-cultura-mettono-a-disposizione-degli-utenti-contenuti-digitali-per-la-consultazione-e-la-navigazione.rst
