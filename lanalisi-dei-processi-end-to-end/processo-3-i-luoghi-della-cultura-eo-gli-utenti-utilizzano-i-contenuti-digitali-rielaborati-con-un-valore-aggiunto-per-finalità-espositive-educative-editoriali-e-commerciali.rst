@@ -59,7 +59,7 @@ patrimonio digitalizzato.
 |    strumenti)       |                       |                    |                     |
 +---------------------+-----------------------+--------------------+---------------------+
 
-*Figura 6. Sintesi dei processi relativi al riutilizzo dei contenuti
+*Tabella 5. Sintesi dei processi relativi al riutilizzo dei contenuti
 digitali per finalità espositive, educative, editoriali e commerciali*
 
 In questo processo, il ruolo e l’apporto dei soggetti esterni è

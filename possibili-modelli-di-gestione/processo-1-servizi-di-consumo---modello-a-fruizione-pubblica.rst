@@ -1,5 +1,7 @@
 .. _Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale: https://docs.italia.it/italia/icdp/icdp-pnd-circolazione-riuso-docs/
 
+.. _processo_servizi_consumo:
+
 Processo 1 \| Servizi di consumo - Modello a fruizione pubblica
 ===============================================================
 
@@ -10,14 +12,17 @@ download, per garantirne la piena accessibilità, promuoverne la
 conoscenza e incoraggiare le pratiche di condivisione attiva dei
 patrimoni culturali.
 
+.. _Principi per il riuso delle riproduzioni digitali del patrimonio culturale e dei relativi metadati: https://docs.italia.it/italia/icdp/icdp-pnd-circolazione-riuso-docs/it/giugno-2022/principi-per-il-riuso-delle-riproduzioni-digitali-del-patrimonio-culturale-e-dei-relativi-metadati.html
+
+.. _Modalità di pubblicazione online delle riproduzioni digitali e scelta delle licenze d’uso da adottare: https://docs.italia.it/italia/icdp/icdp-pnd-circolazione-riuso-docs/it/giugno-2022/modalita-di-pubblicazione-online-delle-riproduzioni-digitali-e-scelta-delle-licenze-duso-da-adottare.html
+
 Per quanto riguarda il contesto italiano, esiste una specifica
 disciplina d’uso delle riproduzioni dei beni culturali, per la cui
 disamina si rimanda al Quadro sinottico U1-U5 contenuto nell’allegato
-`Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale`_, in cui sono
-riportate le discipline applicabili in relazione alle tipologie d’uso in
+`Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale`_, in cui sono riportate le discipline applicabili in relazione alle tipologie d’uso in
 caso di una riproduzione fedele (digitalizzazione) di un bene culturale
-pubblico in pubblico dominio. Inoltre, si fa riferimento ai capitoli 4 e
-5 delle medesime Linee guida per gli aspetti riguardanti l’adozione dei
+pubblico in pubblico dominio. Inoltre, si fa riferimento ai capitoli `Principi per il riuso delle riproduzioni digitali del patrimonio culturale e dei relativi metadati`_ e
+`Modalità di pubblicazione online delle riproduzioni digitali e scelta delle licenze d’uso da adottare`_ delle medesime Linee guida per gli aspetti riguardanti l’adozione dei
 principi per il riuso di dati e contenuti digitali e le modalità di
 pubblicazione online delle riproduzioni digitali e di scelta delle
 licenze d’uso da adottare.

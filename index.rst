@@ -22,7 +22,6 @@ Piano nazionale di digitalizzazione del patrimonio culturale
   possibili-modelli-di-gestione.rst
   conclusioni.rst
   crediti.rst
-  appendice-i---selezione-di-esempi.rst
 
 .. |image0| image:: ./media/image1.png
    :width: 1.55347in

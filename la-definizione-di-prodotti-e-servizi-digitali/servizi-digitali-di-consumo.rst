@@ -23,7 +23,7 @@ tecnologia sottostante.
 | DIGITALI DI         |                                                     |
 | CONSUMO**           |                                                     |
 +=====================+=================+=================+=================+
-| **Funzione**        | **Basso**       | **Medio**       | **Alto**         |
+| **Funzione**        | **Basso**       | **Medio**       | **Alto**        |
 +---------------------+-----------------+-----------------+-----------------+
 | IDENTIFICAZIONE     |      X          |                 |       X         |
 |                     |                 |                 |                 |
@@ -184,7 +184,7 @@ tecnologia sottostante.
 |    ecc.)            |                 |                 |                 |
 +---------------------+-----------------+-----------------+-----------------+
 
-*Tabella 1. Prodotti realizzabili e servizi erogabili in formato
+*Tabella 12. Prodotti realizzabili e servizi erogabili in formato
 digitale: Servizi digitali di consumo*
 
 Tali servizi sono in linea di massima già presenti nei siti web degli

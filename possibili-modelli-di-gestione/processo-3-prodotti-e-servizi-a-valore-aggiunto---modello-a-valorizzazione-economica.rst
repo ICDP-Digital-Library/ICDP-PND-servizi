@@ -1,3 +1,5 @@
+.. _processo_servizi_valore_aggiunto:
+
 Processo 3 \| Prodotti e servizi a valore aggiunto - Modello a valorizzazione economica
 =======================================================================================
 
@@ -112,11 +114,9 @@ culturali.
 |                       |                       | compensi ricevuti.    |
 +-----------------------+-----------------------+-----------------------+
 
-*Tabella 6. Strategie di licensing di due banche immagini private –
+*Tabella 10. Strategie di licensing di due banche immagini private –
 Bridgeman Images VS Scala Archives*
 
-*
-*
 
 +-----------------------+-----------------------+-----------------------+
 |                       | **RMN Grand           | **BPK-Bildagentur**   |
@@ -170,7 +170,7 @@ Bridgeman Images VS Scala Archives*
 |                       |    utilizzo           |    utilizzo           |
 +-----------------------+-----------------------+-----------------------+
 
-*Tabella 7. Strategie di licensing di due agenzie nazionali – RMN Grand
+*Tabella 11. Strategie di licensing di due agenzie nazionali – RMN Grand
 PalaisVS BPK-Bildagentur*
 
 Un’evoluzione di tale modello è rappresentata dai soggetti che accanto
@@ -383,7 +383,7 @@ esemplificare i concetti e gli aspetti trattati
 |                          |                                                                |
 +--------------------------+----------------------------------------------------------------+
 
-*Tabella 8. Strategie di licensing: Getty Images*
+*Tabella 12. Strategie di licensing: Getty Images*
 
 Accanto ai due precedenti modelli di gestione, fondati sulla
 concessione/commercializzazione di immagini e contenuti (*Licensing*),
@@ -628,7 +628,7 @@ e servizi illustrati in precedenza (cfr. cap. :ref:`definizione_prodotti_servizi
 |                       |    share*.            |                       |
 +-----------------------+-----------------------+-----------------------+
 
-*Tabella 9. Ipotesi di modelli di gestione per cluster di
+*Tabella 13. Ipotesi di modelli di gestione per cluster di
 prodotti/servizi*
 
 La Tabella 9 inquadra i modelli di gestione applicabili a ciascun

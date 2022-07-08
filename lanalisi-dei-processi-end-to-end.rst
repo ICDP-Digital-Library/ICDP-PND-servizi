@@ -6,12 +6,12 @@ L’analisi dei processi end-to-end
 In questa sezione sono analizzati i processi che i luoghi della cultura
 possono attivare nel momento in cui rendono fruibili online dati,
 risorse e contenuti digitali del patrimonio culturale, secondo i
-macro-processi (Fig. 3) prima enunciati, descritti in dettaglio nei
+macro-processi (Fig. 1) prima enunciati, descritti in dettaglio nei
 paragrafi seguenti.
 
 |image0|
 
-*Figura 3. Schema di sintesi delle fasi principali dei processi relativi
+*Figura 1. Schema di sintesi delle fasi principali dei processi relativi
 alla creazione di servizi digitali*
 
 .. toctree::

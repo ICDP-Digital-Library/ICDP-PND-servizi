@@ -92,7 +92,7 @@ la gestione della fase pre-visita dello *user journey*.
 |                   |                  |      online)            |
 +-------------------+------------------+-------------------------+
 
-*Figura 8. Mappatura dei processi relativi allo user journey – Pre
+*Tabella 6. Mappatura dei processi relativi allo user journey – Pre
 visita*
 
 Durante la visita i prodotti e i servizi digitali che possono essere
@@ -149,7 +149,7 @@ servizi dello *user journey* durante la visita.
 |                     |                    |    gaming/contest |                    |
 +---------------------+--------------------+-------------------+--------------------+
 
-*Figura 9. Mappatura dei processi relativi allo user journey – Durante
+*Tabella 7. Mappatura dei processi relativi allo user journey – Durante
 la visita*
 
 Altrettanto importante per la fidelizzazione degli utenti è la gestione
@@ -210,7 +210,7 @@ descritte nel dettaglio le fasi del processo post-visita.
 |                    |                        |    media           |                     |
 +--------------------+------------------------+--------------------+---------------------+
 
-*Figura 10. Mappatura dei processi relativi allo user journey – Post
+*Tabella 8. Mappatura dei processi relativi allo user journey – Post
 visita*
 
 In conclusione, nel disegnare lo *user journey* sarà necessario prendere

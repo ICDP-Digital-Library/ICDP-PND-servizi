@@ -43,7 +43,7 @@ descritte:
 |                       |    contenuti          |                       |
 +-----------------------+-----------------------+-----------------------+
 
-*Figura 5. Sintesi dei processi relativi all’abilitazione di servizi per
+*Tabella 4. Sintesi dei processi relativi all’abilitazione di servizi per
 la creazione di contenuti da parte degli utenti*
 
 In questo processo è opportuno prestare la massima attenzione nella fase

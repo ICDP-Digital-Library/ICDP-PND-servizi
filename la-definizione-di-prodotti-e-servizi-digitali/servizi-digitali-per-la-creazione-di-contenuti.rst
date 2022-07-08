@@ -127,7 +127,7 @@ un determinato livello di complessità della tecnologia sottostante.
 |    degli utenti     |                 |                 |                 |
 +---------------------+-----------------+-----------------+-----------------+
 
-*Tabella 2. Ulteriori prodotti realizzabili e servizi erogabili in
+*Tabella 10. Ulteriori prodotti realizzabili e servizi erogabili in
 formato digitale: Servizi digitali per la creazione di contenuti*
 
 Tali servizi, una volta implementati in base alle possibilità e alle
@@ -155,4 +155,3 @@ maggiore diffusione e valorizzazione del patrimonio culturale,
 sfruttando le potenzialità del digitale.
 
 .. [1] L’esperienza recente ha introdotto innovazioni entrate nella filiera nel settore dei contenuti: l’eliminazione delle barriere fisiche e temporali nei processi creativi e distributivi, la diffusione di realtà virtuali e aumentate in grado di estendere la penetrazione dei contenuti stessi su piattaforme digitali, la definizione di innovativi modelli di licenza, la riduzione generale del *digital divide*, il crescente impulso allo scambio elettronico e alla sperimentazione di nuove modalità di fruizione, l’affermazione di sistemi di pagamento online e di inediti modelli pubblicitari, nonché il ruolo sempre più rilevante giocato dagli utenti nel processo creativo e nella diffusione dei contenuti, grazie alle esperienze di condivisione digitale.
-

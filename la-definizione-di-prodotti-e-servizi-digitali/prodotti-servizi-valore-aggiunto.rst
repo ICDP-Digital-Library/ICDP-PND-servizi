@@ -126,7 +126,7 @@ facilitarne la comprensione delle loro potenzialità.
 |                                   |    Art, NFTs e digital copies)    |
 +-----------------------------------+-----------------------------------+
 
-*Tabella 3. Prodotti realizzabili e servizi erogabili in formato
+*Tabella 11. Prodotti realizzabili e servizi erogabili in formato
 digitale – Prodotti e servizi digitali a valore aggiunto*
 
 Lo sviluppo di tali prodotti e servizi costituisce un’opportunità

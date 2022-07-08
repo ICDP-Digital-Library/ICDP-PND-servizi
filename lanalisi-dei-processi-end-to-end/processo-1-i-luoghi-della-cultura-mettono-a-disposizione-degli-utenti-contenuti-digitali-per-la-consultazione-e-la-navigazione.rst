@@ -43,7 +43,7 @@ processuali:
 |                     |                   |    navigazione      |                     |
 +---------------------+-------------------+---------------------+---------------------+
 
-*Figura 4. Sintesi dei processi relativi alla consultazione e alla
+*Tabella 3. Sintesi dei processi relativi alla consultazione e alla
 navigazione dei contenuti digitali*
 
 Gli elementi inseriti in questo schema, espressione dei diversi processi

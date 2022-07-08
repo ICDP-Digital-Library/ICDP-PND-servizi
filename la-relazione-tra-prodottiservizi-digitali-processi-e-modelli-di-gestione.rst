@@ -98,7 +98,7 @@ prodotti/servizi e i modelli di gestione applicabili.
 |       |                 |    commerciali     |                  |
 +-------+-----------------+--------------------+------------------+
 
-*Figura 1. Relazione tra servizi digitali, processi e modelli di
+*Tabella 1. Relazione tra servizi digitali, processi e modelli di
 gestione nei luoghi della cultura*
 
 +-------+----------------+--------------+---------------------+
@@ -138,12 +138,12 @@ gestione nei luoghi della cultura*
 |       |                |              |    pubblico-privato |
 +-------+----------------+--------------+---------------------+
 
-*Figura 2. Esempio della catena processo-prodotto-modello applicato allo
+*Tabella 2. Esempio della catena processo-prodotto-modello applicato allo
 User journey nei luoghi della cultura*
 
-In particolare, i primi tre processi (Fig. 1), afferendo direttamente
+In particolare, i primi tre processi (Tabella. 1), afferendo direttamente
 alla valorizzazione del patrimonio culturale digitale nella forma di
-dati e contenuti culturali, sono trattati nei paragrafi 3.1, 3.2 e 3.3.
+dati e contenuti culturali, sono trattati nei paragrafi :ref:`processo_servizi_consumo`, :ref:`processo_servizi_creazione_contenuti` e :ref:`processo_servizi_valore_aggiunto`.
 
 I processi di gestione dello *user journey* (Fig. 2), essendo sviluppati
 al lato di dati e contenuti culturali, sono invece esaminati

@@ -1,3 +1,5 @@
+.. _processo_servizi_creazione_contenuti:
+
 Processo 2 \| Servizi per la creazione di contenuti - Modello a valorizzazione culturale
 =============================================================================================
 
