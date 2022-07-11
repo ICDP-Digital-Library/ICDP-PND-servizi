@@ -264,6 +264,7 @@ esemplificare i concetti e gli aspetti trattati
 |                          | https://www.gettyimages.it/workwithus                          |
 |                          |                                                                |
 +--------------------------+----------------------------------------------------------------+
++--------------------------+----------------------------------------------------------------+
 | **Modello di ricavo**    | -  Licenze individuali - per                                   |
 |                          |    singole immagini ricercate                                  |
 |                          |    dagli utenti (piccole, medie,                               |
@@ -493,6 +494,8 @@ e servizi illustrati in precedenza (cfr. cap. :ref:`definizione_prodotti_servizi
 |                       | **LIBERA ACCESSO +    | Dickens)* [14]_ *,    |
 |                       | MEMBERSHIP**          | Patreon* [15]_        |
 +-----------------------+-----------------------+-----------------------+
+
++-----------------------+-----------------------+-----------------------+
 | **Prodotti            | Digital travelling    | *Smithsonian          |
 | espositivi**          | exhibitions:          | SITES* [16]_          |
 |                       | **LICENSING**         |                       |
@@ -576,6 +579,8 @@ e servizi illustrati in precedenza (cfr. cap. :ref:`definizione_prodotti_servizi
 | commerciali –**       |                       |                       |
 |                       |                       |                       |
 | **Advertising**       |                       |                       |
++-----------------------+-----------------------+-----------------------+
+
 +-----------------------+-----------------------+-----------------------+
 | **Prodotti            | **LICENSING “PURO”**  | *Van Gogh             |
 | commerciali –**       |                       | Museum-Manduka* [28]_ |

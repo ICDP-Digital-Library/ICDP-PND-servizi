@@ -78,6 +78,8 @@ visita), per facilitarne la comprensione e coglierne l’utilità.
 |                                   | -  Piattaforma per la vendita     |
 |                                   |    elettronica (e-commerce)       |
 +-----------------------------------+-----------------------------------+
+
++-----------------------------------+-----------------------------------+
 | **Servizi di back-end per gli     | -  Sistemi gestionali integrati   |
 | enti**                            |    per la gestione dei beni       |
 |                                   |    (catalogazione,                |

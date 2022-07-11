@@ -65,6 +65,8 @@ facilitarne la comprensione delle loro potenzialità.
 |                                   |    catalogazione, metadatazione,  |
 |                                   |    trascrizioni di documenti      |
 |                                   |    originali, ecc.)               |
++-----------------------------------+-----------------------------------+ 
+
 +-----------------------------------+-----------------------------------+
 | **PRODOTTI E SERVIZI ESPOSITIVI,  | -  **Prodotti e servizi           |
 | EDUCATIVI ED EDITORIALI**         |    espositivi:** produzione di    |

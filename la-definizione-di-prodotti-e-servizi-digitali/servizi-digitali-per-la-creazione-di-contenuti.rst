@@ -38,94 +38,11 @@ digitali di consumo*) – dei *Servizi digitali per la creazione di
 contenuti*; per ciascuna di esse è stato fornito un esempio associato a
 un determinato livello di complessità della tecnologia sottostante.
 
-+---------------------+-----------------+-----------------+-----------------+
-| **SERVIZI           | **LIVELLO       |                 |                 |
-| DIGITALI PER LA     | TECNOLOGICO     |                 |                 |
-| CREAZIONE DI        | SOTTESO**       |                 |                 |
-| CONTENUTI**         |                 |                 |                 |
-+=====================+=================+=================+=================+
-| **Funzione**        | **Basso**       | **Medio**       | **Alto**        |
-+---------------------+-----------------+-----------------+-----------------+
-| CONTENT             |                 | X               | X               |
-| CREATION            |                 |                 |                 |
-|                     |                 | X               | X               |
-| -  Creazione        |                 |                 |                 |
-|    album o          |                 |                 | X               |
-|    raccolte dei     |                 |                 |                 |
-|    contenuti        |                 |                 |                 |
-|    istituzionali    |                 |                 |                 |
-|    (es. My          |                 |                 |                 |
-|    Library,         |                 |                 |                 |
-|    personal         |                 |                 |                 |
-|    curatorship)     |                 |                 |                 |
-|                     |                 |                 |                 |
-| -  Mash-up di       |                 |                 |                 |
-|    contenuti        |                 |                 |                 |
-|    provenienti      |                 |                 |                 |
-|    da più fonti     |                 |                 |                 |
-|                     |                 |                 |                 |
-| -  Arricchimento    |                 |                 |                 |
-|    dei              |                 |                 |                 |
-|    contenuti        |                 |                 |                 |
-|    istituzionali    |                 |                 |                 |
-|    (social          |                 |                 |                 |
-|    tagging,         |                 |                 |                 |
-|    annotazioni,     |                 |                 |                 |
-|    crowdsourcing    |                 |                 |                 |
-|    ecc.)            |                 |                 |                 |
-|                     |                 |                 |                 |
-| -  Modifica dei     |                 |                 |                 |
-|    contenuti        |                 |                 |                 |
-|    istituzionali    |                 |                 |                 |
-|    per finalità     |                 |                 |                 |
-|    creative         |                 |                 |                 |
-|    (fotomontaggi    |                 |                 |                 |
-|    micro-video,     |                 |                 |                 |
-|    ecc.)            |                 |                 |                 |
-|                     |                 |                 |                 |
-| -  Copie di         |                 |                 |                 |
-|    back-up          |                 |                 |                 |
-|    delle            |                 |                 |                 |
-|    creazioni        |                 |                 |                 |
-|    generate         |                 |                 |                 |
-+---------------------+-----------------+-----------------+-----------------+
-| REFERENZIAZIONE     |                 | X               | X               |
-|                     |                 |                 |                 |
-| -  Pubblicazione    |                 |                 |                 |
-|    citazioni e      |                 |                 |                 |
-|    commenti         |                 |                 |                 |
-|    autoriali        |                 |                 |                 |
-|                     |                 |                 |                 |
-| -  Importazione     |                 |                 |                 |
-|    da formati       |                 |                 |                 |
-|    specifici        |                 |                 |                 |
-|    (RIS,            |                 |                 |                 |
-|    Bibtex)          |                 |                 |                 |
-+---------------------+-----------------+-----------------+-----------------+
-| ARRICCHIMENTO       | X               | X               | X               |
-|                     |                 |                 |                 |
-| -  Caricamento      |                 |                 |                 |
-|    contenuti        |                 |                 |                 |
-|    relazionati      |                 |                 |                 |
-|    da link          |                 |                 |                 |
-|    esterni          |                 |                 |                 |
-|                     |                 |                 |                 |
-| -  Caricamento      |                 |                 |                 |
-|    di contenuti     |                 |                 |                 |
-|    relazionati      |                 |                 |                 |
-|    propri           |                 |                 |                 |
-|                     |                 |                 |                 |
-| -  Interlinking     |                 |                 |                 |
-|    di dati          |                 |                 |                 |
-+---------------------+-----------------+-----------------+-----------------+
-| ANALYTICS           |                 |                 | X               |
-|                     |                 |                 |                 |
-| -  Reportistica     |                 |                 |                 |
-|    automatizzata    |                 |                 |                 |
-|    sulle            |                 |                 |                 |
-|    preferenze       |                 |                 |                 |
-|    degli utenti     |                 |                 |                 |
-+---------------------+-----------------+-----------------+-----------------+
+|image0|
+
+.. |image0| image:: ../media/image5.png
+   :width: 5.38984in
+   :height: 4.32977in
 
 *Tabella 10. Ulteriori prodotti realizzabili e servizi erogabili in
 formato digitale: Servizi digitali per la creazione di contenuti*

@@ -219,5 +219,5 @@ servizi cosa implementare senza aver chiaro l’intero processo può
 vanificare l’efficacia del servizio realizzato/acquistato.
 
 .. |image0| image:: ../media/image3.jpg
-   :width: 4.38984in
-   :height: 3.32977in
+   :width: 5.38984in
+   :height: 4.32977in
