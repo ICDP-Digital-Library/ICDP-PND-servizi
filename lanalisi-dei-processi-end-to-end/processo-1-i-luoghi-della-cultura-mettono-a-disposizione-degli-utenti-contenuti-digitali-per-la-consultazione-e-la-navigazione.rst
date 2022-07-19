@@ -61,11 +61,11 @@ come ad esempio la pubblicazione dei dati di un catalogo informatizzato,
 passaggio pregiudica la creazione del valore finale. Ad esempio, anche
 se nella pratica non sempre si verifica, i dati pubblicati online senza
 l’associazione di una corretta licenza d’uso non possono essere
-riutilizzati con fiducia da parte degli utenti [1]_; parimenti, una
+riutilizzati con fiducia da parte degli utenti [6]_; parimenti, una
 selezione dei materiali da digitalizzare non ispirata da criteri
 razionali (conservativi, editoriali, fruitivi, etc.) può rendere
 inefficace la fruizione finale, mentre uno scarso presidio delle
-procedure di digitalizzazione e processamento dei dati [2]_ o una scelta
+procedure di digitalizzazione e processamento dei dati [7]_ o una scelta
 poco oculata delle modalità e dei software di visualizzazione ne
 pregiudicano l’efficienza. Analogamente, è necessario progettare sin
 dall’origine del progetto le modalità di disseminazione dei contenuti
@@ -76,8 +76,8 @@ un obiettivo fallito).
 
 .. _Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale: https://docs.italia.it/italia/icdp/icdp-pnd-circolazione-riuso-docs/
 
-.. [1] Cfr. `Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale`_, allegato 3 del PND.
+.. [6] Cfr. `Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale`_, allegato 3 del PND.
 
 .. _Linee guida per la digitalizzazione del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs/
 .. _Linee guida per la redazione del Piano di gestione dei dati: https://docs.italia.it/italia/icdp/icdp-pnd-dmp-docs/
-.. [2] Cfr. `Linee guida per la digitalizzazione del patrimonio culturale`_, allegato 1 del PND e `Linee guida per la redazione del Piano di gestione dei dati`_, allegato 2 del PND.
+.. [7] Cfr. `Linee guida per la digitalizzazione del patrimonio culturale`_, allegato 1 del PND e `Linee guida per la redazione del Piano di gestione dei dati`_, allegato 2 del PND.

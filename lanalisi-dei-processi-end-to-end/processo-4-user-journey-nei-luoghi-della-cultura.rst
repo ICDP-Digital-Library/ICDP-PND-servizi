@@ -1,7 +1,7 @@
 .. _processo_4:
 
-Processo 4 \| User journey nei luoghi della cultura
-===================================================
+Processo 4 \| *User journey* nei luoghi della cultura
+======================================================
 
 Per esaminare i processi sottostanti lo *user journey* nei luoghi della
 cultura è opportuno rammentare che può realizzarsi sia in una dimensione

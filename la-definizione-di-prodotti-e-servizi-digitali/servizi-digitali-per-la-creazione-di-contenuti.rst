@@ -12,7 +12,7 @@ Posto che anche tali servizi si rivolgono a tutte le tipologie di target
 gruppi che agiscono privatamente o in funzione del proprio ruolo
 professionale o istituzionale (B2C). In un momento storico in cui la
 rivoluzione digitale sta modificando strutturalmente il modo di
-produrre, distribuire e condividere i contenuti [1]_, la relazione tra
+produrre, distribuire e condividere i contenuti [19]_, la relazione tra
 istituzione e utente viene trasformata. Questo cambiamento è evidente
 sin dalle funzioni di base, come la fruizione dei contenuti digitali da
 parte degli utenti: se prima il rapporto tra istituzione e utente era
@@ -71,4 +71,4 @@ incrementa il grado di coinvolgimento degli utenti e contribuisce a una
 maggiore diffusione e valorizzazione del patrimonio culturale,
 sfruttando le potenzialità del digitale.
 
-.. [1] L’esperienza recente ha introdotto innovazioni entrate nella filiera nel settore dei contenuti: l’eliminazione delle barriere fisiche e temporali nei processi creativi e distributivi, la diffusione di realtà virtuali e aumentate in grado di estendere la penetrazione dei contenuti stessi su piattaforme digitali, la definizione di innovativi modelli di licenza, la riduzione generale del *digital divide*, il crescente impulso allo scambio elettronico e alla sperimentazione di nuove modalità di fruizione, l’affermazione di sistemi di pagamento online e di inediti modelli pubblicitari, nonché il ruolo sempre più rilevante giocato dagli utenti nel processo creativo e nella diffusione dei contenuti, grazie alle esperienze di condivisione digitale.
+.. [19] L’esperienza recente ha introdotto innovazioni entrate nella filiera nel settore dei contenuti: l’eliminazione delle barriere fisiche e temporali nei processi creativi e distributivi, la diffusione di realtà virtuali e aumentate in grado di estendere la penetrazione dei contenuti stessi su piattaforme digitali, la definizione di innovativi modelli di licenza, la riduzione generale del *digital divide*, il crescente impulso allo scambio elettronico e alla sperimentazione di nuove modalità di fruizione, l’affermazione di sistemi di pagamento online e di inediti modelli pubblicitari, nonché il ruolo sempre più rilevante giocato dagli utenti nel processo creativo e nella diffusione dei contenuti, grazie alle esperienze di condivisione digitale.

@@ -32,7 +32,7 @@ digitale: Servizi digitali di consumo*
 Tali servizi sono in linea di massima già presenti nei siti web degli
 istituti culturali nella loro versione “base”; l’evoluzione verso forme
 tecnologicamente più avanzate richiede un’attenta valutazione della
-capacità di presidio dei singoli istituti [1]_, sia in fase di
+capacità di presidio dei singoli istituti [18]_, sia in fase di
 progettazione/committenza che in fase di gestione, al fine di offrire
 servizi che non nascano obsoleti. Difatti, se nell’opinione comune il
 mondo digitale è sempre all’avanguardia – con i suoi software,
@@ -51,4 +51,5 @@ internamente, per individuare le soluzioni che nel medio-lungo periodo
 sono più resistenti all’obsolescenza.
 
 .. _Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali: https://docs.italia.it/italia/icdp/icdp-pnd-maturita-docs/
-.. [1] Cfr. `Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali`_, allegato 5 del PND.
+
+.. [18] Cfr. `Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali`_, allegato 5 del PND.

@@ -50,7 +50,7 @@ legati allo *user journey*:
    molti luoghi della cultura, che dovranno includere anche l’erogazione
    di servizi digitali per gli utenti. Particolarmente interessante in
    tal senso è la possibilità di sviluppare partenariati per
-   l’innovazione [1]_.
+   l’innovazione [60]_.
 
 
-.. [1] Cfr. art. 65 del Codice dei contratti pubblici: *“1. Le amministrazioni aggiudicatrici e gli enti aggiudicatori possono ricorrere ai partenariati per l'innovazione nelle ipotesi in cui l'esigenza di sviluppare prodotti, servizi o lavori innovativi e di acquistare successivamente le forniture, i servizi o i lavori che ne risultano non può, in base a una motivata determinazione, essere soddisfatta ricorrendo a soluzioni già disponibili sul mercato, a condizione che le forniture, servizi o lavori che ne risultano, corrispondano ai livelli di prestazioni e ai costi massimi concordati tra le stazioni appaltanti e i partecipanti.”.*
+.. [60] Cfr. art. 65 del Codice dei contratti pubblici: *“1. Le amministrazioni aggiudicatrici e gli enti aggiudicatori possono ricorrere ai partenariati per l'innovazione nelle ipotesi in cui l'esigenza di sviluppare prodotti, servizi o lavori innovativi e di acquistare successivamente le forniture, i servizi o i lavori che ne risultano non può, in base a una motivata determinazione, essere soddisfatta ricorrendo a soluzioni già disponibili sul mercato, a condizione che le forniture, servizi o lavori che ne risultano, corrispondano ai livelli di prestazioni e ai costi massimi concordati tra le stazioni appaltanti e i partecipanti.”.*

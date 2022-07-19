@@ -10,7 +10,7 @@ descritti nel successivo par. 3, posso essere realizzati dagli stessi
 luoghi della cultura – anche in accordo con terze parti – o da soggetti
 esterni, tipicamente imprese culturali e creative, ma anche dai
 cosiddetti *prosumer*, intesi come consumatori che diventano a loro
-volta produttori, aggiungendo valore [1]_. Prodotti e servizi così
+volta produttori, aggiungendo valore [9]_. Prodotti e servizi così
 connotati rappresentano il risultato di rielaborazioni (con un valore
 aggiunto) realizzate a partire dai dati del patrimonio culturale,
 sviluppate per creare nuovi prodotti o servizi, di varia forma e natura
@@ -39,8 +39,8 @@ patrimonio digitalizzato.
 |                     |    per                |                    |                     |
 | -  Definizione      |    produzione         |                    |                     |
 |    del relativo     |    prodotti e         |                    |                     |
-|    business         |    servizi            |                    |                     |
-|    plan             |                       |                    |                     |
+|   *business         |    servizi            |                    |                     |
+|   plan*             |                       |                    |                     |
 |    (mercato di      | -  Ricerca            |                    |                     |
 |    riferimento,     |    soluzioni          |                    |                     |
 |    costi e          |    per                |                    |                     |
@@ -91,7 +91,7 @@ altrettanto strategica per comprendere se il prodotto/servizio
 realizzato sia adeguato alle aspettative degli utenti e possa
 raggiungere le finalità programmate.
 
-.. [1] Il lemma *prosumer* è un neologismo anglosassone derivante dalla crasi
+.. [9] Il lemma *prosumer* è un neologismo anglosassone derivante dalla crasi
    dei termini *producer* e *consumer*. Il valore aggiunto che i
    prosumer realizzano può essere ricompreso nell’area dei prodotti (es.
    utilizzo i contenuti per produrre prodotti da mettere sul mercato),

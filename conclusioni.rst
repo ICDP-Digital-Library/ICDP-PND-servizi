@@ -8,7 +8,7 @@ informativo completo e aggiornato, capace di orientare e supportare i
 processi decisionali dei luoghi della cultura, in un campo fortemente
 condizionato dal loro attuale grado di maturità digitale. In tal senso
 la lettura di questo testo è logicamente correlata all’esame del
-documento dedicato alla sua valutazione [1]_: l’elemento fondamentale
+documento dedicato alla sua valutazione [61]_: l’elemento fondamentale
 del processo di design dei servizi è infatti costituito dalla capacità
 di analizzare il proprio livello di maturità digitale, che rappresenta
 la base conoscitiva su cui fondare l’intero progetto di trasformazione
@@ -42,4 +42,4 @@ valorizzino le missioni istituzionali e i principi dei servizi di
 pubblica utilità.
 
 .. _Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali: https://docs.italia.it/italia/icdp/icdp-pnd-maturita-docs/
-.. [1] Cfr. `Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali`_, allegato 5 del PND.
+.. [61] Cfr. `Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali`_, allegato 5 del PND.

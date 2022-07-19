@@ -23,7 +23,7 @@ descritte:
 | -  Definizione dei    | contenuti:            | dagli utenti:         |
 |    diritti e dei      |                       |                       |
 |    termini d’uso sui  | -  Scelta dei servizi | -  Programma di       |
-|    nuovi contenuti    |    da sviluppare      |    public engagement  |
+|    nuovi contenuti    |    da sviluppare      |    *public engagement*|
 |    prodotti           |    (servizi di        |                       |
 |                       |    consultazione -    | -  Verifica dei       |
 | -  Definizione del    |    servizi per la     |    contenuti generati |
@@ -33,7 +33,7 @@ descritte:
 |                       | -  Individuazione     |    comunicazione e    |
 |                       |    della soluzione    |    disseminazione     |
 |                       |    software           |                       |
-|                       |    (on-premise o      |                       |
+|                       |    (*on-premise* o    |                       |
 |                       |    SaaS)              |                       |
 |                       |                       |                       |
 |                       | -  Supporto e         |                       |
@@ -54,7 +54,7 @@ modo autonomo attraverso i social network, ma a contenuti strutturati
 (come ad esempio le ricerche o le produzioni creative) che vengono
 prodotti a beneficio di altri utenti. Le applicazioni, che il PND
 raccomanda di mantenere separate logicamente e tecnologicamente dalle
-basi dati, possono essere sviluppate ad hoc ed installate presso i
+basi dati, possono essere sviluppate *ad hoc* ed installate presso i
 luoghi della cultura (soluzioni *custom on-premise*) oppure essere
 acquistate sul mercato come servizio (soluzioni SaaS – *software
 as-a-service*). La scelta delle modalità di condivisione risulta
@@ -64,10 +64,10 @@ virtuose di coinvolgimento e presa in carico da parte del pubblico
 ascolto, dialogo e collaborazione tra istituzioni culturali e cittadini,
 studenti, ricercatori e imprese.
 
-.. [1] User Generated Content (UGC), spesso associato al Web 2.0, è un
+.. [8] *User Generated Content* (UGC), spesso associato al Web 2.0, è un
    termine con cui ci si riferisce alle reti sociali, ai siti di social
    media, alle iniziative collaborative e ad una varietà di opere
-   create, remixate e scambiate da singoli utenti (Elkin-Koren, *User
+   create, modificate e scambiate da singoli utenti (Elkin-Koren, *User
    Generated Platforms*, 2010). Un rapporto OCSE del 2007 lo definisce
    come: “(i) il contenuto reso pubblicamente disponibile su Internet,
    (ii) che riflette una certa quantità di sforzo creativo, e (iii) che

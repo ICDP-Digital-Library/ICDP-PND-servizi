@@ -35,8 +35,8 @@ cultura. In questo caso il concetto di “fruizione pubblica” è da
 intendersi come accesso libero e gratuito, che prevede la possibilità di
 consultare e riutilizzare i contenuti digitali per fini non direttamente
 commerciali (a differenza di quanto avviene con il modello “Open Access”
-che invece lo consente [1]_), in coerenza con le disposizioni normative
-vigenti in materia [2]_.
+che invece lo consente [23]_), in coerenza con le disposizioni normative
+vigenti in materia [24]_.
 
 La capacità di garantire un accesso esteso e libero a tutti gli utenti
 implica l’impossibilità di raggiungere un’autonoma sostenibilità
@@ -96,11 +96,11 @@ finanziamenti), migliora le procedure di gestione interne (con possibili
 riduzione dei costi di funzionamento) e facilita la creazione di servizi
 digitali ad alto valore aggiunto (come stimolo per l’indotto).
 
-.. [1] Per “Open Access” si intende l’accesso libero e senza barriere al
+.. [23] Per “Open Access” si intende l’accesso libero e senza barriere al
    sapere scientifico, come dichiara nel 2002 la *Budapest Open Access
    Initiative*, i cui principi sono stati in seguito riaffermati dalla
    *Berlin Declaration on open access to knowledge in the Sciences and
    Humanities.*
 
-.. [2] Come previsto all’art. 108, comma 3-bis del Codice dei beni
+.. [24] Come previsto all’art. 108, comma 3-bis del Codice dei beni
    culturali. Cfr. inoltre `Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale`_, allegato 3 del PND.

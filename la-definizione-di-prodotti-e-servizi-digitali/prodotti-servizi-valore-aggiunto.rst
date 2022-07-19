@@ -14,7 +14,7 @@ destinati a tutte le tipologie di target (B2I, B2B e B2C), in funzione
 delle loro esigenze specifiche.
 
 In questa sede è utile operare una distinzione in base alla finalità –
-piuttosto che in funzione della forma – di questi prodotti [1]_ e
+piuttosto che in funzione della forma – di questi prodotti [20]_ e
 servizi, dacché entrambi rappresentano rielaborazioni a valore aggiunto
 di contenuti digitali relativi al patrimonio culturale, ovvero:
 
@@ -65,7 +65,7 @@ facilitarne la comprensione delle loro potenzialità.
 |                                   |    catalogazione, metadatazione,  |
 |                                   |    trascrizioni di documenti      |
 |                                   |    originali, ecc.)               |
-+-----------------------------------+-----------------------------------+ 
++-----------------------------------+-----------------------------------+
 
 +-----------------------------------+-----------------------------------+
 | **PRODOTTI E SERVIZI ESPOSITIVI,  | -  **Prodotti e servizi           |
@@ -146,7 +146,7 @@ disposizione delle banche dati sono:
    promuovere la conoscenza del settore, rendendo accessibili analisi
    statistiche, ricerche, KPI, mappe, dashboard e altre informazioni
    scientifiche e consentendo agli utenti di caricare i propri
-   dati [2]_.
+   dati [21]_.
 
 Inoltre, per quanto attiene ai prodotti espositivi, educativi,
 editoriali e commerciali, le opportunità di valorizzazione e
@@ -160,7 +160,7 @@ confrontarsi e dialogare con il patrimonio culturale con una modalità
 diversa (immersiva, coinvolgente, innovativa, stimolante, interattiva,
 personalizzata, ecc.), attirando nuovi segmenti di pubblico.
 
-.. [1] Si intendono sia prodotti fisici che digitali.
+.. [20] Si intendono sia prodotti fisici che digitali.
 
-.. [2] Ottimi esempi sono i database open data di National Archive of Data on Arts and Culture (NADAC) e Data Arts (Southern Methodist
+.. [21] Ottimi esempi sono i database open data di National Archive of Data on Arts and Culture (NADAC) e Data Arts (Southern Methodist
    University, Dallas), che offrono dati e informazioni sul settore culturale e creativo negli Stati Uniti.

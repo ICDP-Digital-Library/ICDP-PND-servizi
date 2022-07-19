@@ -69,7 +69,7 @@ comunicazione godute dagli istituti culturali. Sotto questo profilo
 appare necessario valutare con attenzione la scelta di affidare tali
 modalità di valorizzazione esclusivamente alle piattaforme delle grandi
 aziende cosiddette “over the top”, molto performanti sul piano
-tecnologico ma opache sui modelli di business collegati [1]_ e per la
+tecnologico ma opache sui modelli di business collegati [25]_ e per la
 forte intermediazione asimmetrica che esercitano tra l’istituzione che
 le utilizza e gli utenti; la “visibilità” non può essere infatti assunta
 come unico ritorno per l’amministrazione pubblica.
@@ -81,6 +81,6 @@ mettendo a disposizione servizi complementari all’esperienza fisica di
 visita, che valorizzano la proattività e la capacità generativa del
 pubblico.
 
-.. [1] Del tutto sconosciuti sono i ricavi che vengono generati dalla
+.. [25] Del tutto sconosciuti sono i ricavi che vengono generati dalla
    monetizzazione dei dati degli utenti operate dalle società cosiddette
    Big Tech.

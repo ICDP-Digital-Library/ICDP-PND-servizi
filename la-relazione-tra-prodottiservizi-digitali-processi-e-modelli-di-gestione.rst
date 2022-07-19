@@ -29,7 +29,7 @@ utenti contenuti digitali per la consultazione e la navigazione;
 
 **Processo 2 \|** I luoghi della cultura mettono a disposizione
 contenuti digitali per creare ulteriori contenuti, scientifici o
-creativi [1]_, da parte degli utenti;
+creativi [4]_, da parte degli utenti;
 
 **Processo 3 \|** I luoghi della cultura e/o gli utenti utilizzano i
 contenuti digitali e li rielaborano con un valore aggiunto per finalità
@@ -37,7 +37,7 @@ espositive, educative, editoriali o commerciali;
 
 **Processo 4 \|** I luoghi della cultura offrono esperienze di visita
 agli utenti, sia nella dimensione fisica che digitale (*User
-journey*\  [2]_).
+journey*\  [5]_).
 
 I primi tre processi rappresentano progressive espansioni di una
 medesima finalità (la valorizzazione del patrimonio informativo); il
@@ -78,7 +78,7 @@ prodotti/servizi e i modelli di gestione applicabili.
 |       |                 |                    | -  Canoni per    |
 |       |                 |                    |    utilizzo di   |
 |       |                 |                    |    specifici     |
-|       |                 |                    |    tool          |
+|       |                 |                    |  *tool*          |
 +-------+-----------------+--------------------+------------------+
 | **3** | I luoghi della  | **Prodotti e       | **Valorizzazione |
 |       | cultura/gli     | servizi a          | culturale**      |
@@ -94,7 +94,7 @@ prodotti/servizi e i modelli di gestione applicabili.
 |       | educative,      | -  Prodotti        | -  Canoni per    |
 |       | editoriali e    |    editoriali      |    utilizzo di   |
 |       | commerciali**   |                    |    specifici     |
-|       |                 | -  Prodotti        |    tool          |
+|       |                 | -  Prodotti        |  *tool*          |
 |       |                 |    commerciali     |                  |
 +-------+-----------------+--------------------+------------------+
 
@@ -108,14 +108,14 @@ gestione nei luoghi della cultura*
 +=======+================+==============+=====================+
 | **4** | -  Pre-visita  | -  Servizi   | -  Gestione         |
 |       |                |    di        |    internalizzata   |
-|       | -  Durante     |    front-end |    con              |
+|       | -  Durante     |  *front-end* |    con              |
 |       |    la          |    per       |    prodotti         |
 |       |    visita      |    gli       |    tecnologici      |
 |       |                |    utenti    |    custom           |
 |       | -  Post-visita |              |                     |
 |       |                | -  Servizi   | -  Gestione         |
 |       |                |    di        |    esternalizzata   |
-|       |                |    back-end  |    con              |
+|       |                |  *back-end*  |    con              |
 |       |                |    per       |    prodotti         |
 |       |                |    gli       |    tecnologici      |
 |       |                |    enti      |    di               |
@@ -157,11 +157,11 @@ erogabili e le diverse competenze sottostanti, ma solo le principali
 soluzioni adottabili, necessarie per garantire la sostenibilità
 dell’erogazione del servizio.
 
-.. [1] Un contenuto “autoriale” può essere di tipo scientifico o creativo:
+.. [4] Un contenuto “autoriale” può essere di tipo scientifico o creativo:
    pur trattandosi di ambiti e linguaggi differenti, sono entrambi
    interessanti ai fini culturali.
 
-.. [2] Lo *user journey*, che in italiano può essere denominato “percorso
+.. [5] Lo *user journey*, che in italiano può essere denominato “percorso
    utente”, è una tecnica utilizzata in particolare nei modelli di
    gestione e di marketing per conoscere e riprogettare l’esperienza di
    un cliente con un particolare prodotto o servizio, soprattutto

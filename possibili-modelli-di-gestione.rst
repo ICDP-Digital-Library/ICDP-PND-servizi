@@ -5,7 +5,7 @@ Possibili modelli di gestione
 
 Sulla base dei processi *end-to-end* individuati (cfr. cap. :ref:`analisi_processi_end-to-end`) e dei
 servizi digitali erogabili (cfr. cap. :ref:`definizione_prodotti_servizi`), è possibile adottare modelli
-di gestione [1]_ capaci di armonizzare l’apertura inclusiva e
+di gestione [22]_ capaci di armonizzare l’apertura inclusiva e
 democratica delle collezioni con gli scopi di valorizzazione, anche
 economica, del patrimonio culturale digitalizzato. L’obiettivo
 strategico è la proposizione di modelli di gestione sostenibili nel
@@ -58,7 +58,7 @@ distintive dei cluster dei prodotti e dei servizi individuati.
 |                       |                       | della cultura*        |
 +-----------------------+-----------------------+-----------------------+
 
-*Tabella 5. Schema di sintesi: modelli di gestione per tipologia di
+*Tabella 13. Schema di sintesi: modelli di gestione per tipologia di
 servizi*
 
 .. toctree::
@@ -70,7 +70,7 @@ servizi*
   possibili-modelli-di-gestione/processo-3-prodotti-e-servizi-a-valore-aggiunto---modello-a-valorizzazione-economica.rst
   possibili-modelli-di-gestione/processo-4-user-journey-nei-luoghi-della-cultura-1.rst
 
-.. [1] Per modelli di gestione si intendono i modelli organizzativi e
+.. [22] Per modelli di gestione si intendono i modelli organizzativi e
    strategici per la valorizzazione dei prodotti e servizi digitali, che
    consentono agli istituti culturali di erogare tali prodotti/servizi -
    quasi mai “standard” - in maniera efficiente ed efficace rispetto
