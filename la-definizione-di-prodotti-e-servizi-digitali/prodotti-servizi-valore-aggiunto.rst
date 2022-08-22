@@ -33,6 +33,8 @@ individuate tra i *prodotti e i servizi a valore aggiunto*, per
 facilitarne la comprensione delle loro potenzialità.
 
 +-----------------------------------+-----------------------------------+
+|                                   |                                   |
++-----------------------------------+-----------------------------------+
 | **BANCHE DATI**                   | -  **Banche dati tematiche**      |
 |                                   |    (elaborazioni tematiche di     |
 |                                   |    collezioni digitali            |

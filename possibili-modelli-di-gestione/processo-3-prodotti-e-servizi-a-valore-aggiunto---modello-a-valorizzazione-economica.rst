@@ -120,7 +120,7 @@ Bridgeman Images VS Scala Archives*
 
 +-----------------------+-----------------------+-----------------------+
 |                       | **RMN Grand           | **BPK-Bildagentur**   |
-|                       | Palais** [27]_         |  [28]_                 |
+|                       | Palais** [27]_         |  [28]_               |
 +=======================+=======================+=======================+
 | **Oggetto del         | Database con 800.000  | Database con 12       |
 | servizio**            | immagini di opere di  | milioni di immagini   |
@@ -436,7 +436,7 @@ e servizi illustrati in precedenza (cfr. cap. :ref:`definizione_prodotti_servizi
 +=======================+=======================+=======================+
 | **Banche dati**       | Banche dati           | *The Metropolitan     |
 |                       | tematiche: **OPEN     | Museum of             |
-|                       | LICENSING**           | Art* [30]_             |
+|                       | LICENSING**           | Art* [30]_            |
 |                       |                       |                       |
 |                       | Gli utenti            |                       |
 |                       | accedono              |                       |
@@ -455,14 +455,14 @@ e servizi illustrati in precedenza (cfr. cap. :ref:`definizione_prodotti_servizi
 +-----------------------+-----------------------+-----------------------+
 |                       | Banche dati di        | *Interpol (Stolen     |
 |                       | servizio e Big data:  | works of art          |
-|                       | **FREEMIUM**          | database* [31]_ *)     |
+|                       | **FREEMIUM**          | database* [31]_ *)    |
 |                       |                       | ,                     |
-|                       | Il modello comprende  | ArchINFORM* [32]_      |
+|                       | Il modello comprende  | ArchINFORM* [32]_     |
 |                       | tre tipologie di      | *,                    |
-|                       | servizi:              | ICONEM* [33]_ *,       |
+|                       | servizi:              | ICONEM* [33]_ *,      |
 |                       |                       | National Center for   |
 |                       | 1. accesso limitato - | Arts and Research     |
-|                       |    servizio di base,  | (DataArts)* [34]_      |
+|                       |    servizio di base,  | (DataArts)* [34]_     |
 |                       |    limitato (no       | *,                    |
 |                       |    download, no       | Artprice* [35]_ *,    |
 |                       |    riutilizzo),       | Bridgeman             |
