@@ -12,9 +12,9 @@ download, per garantirne la piena accessibilità, promuoverne la
 conoscenza e incoraggiare le pratiche di condivisione attiva dei
 patrimoni culturali.
 
-.. _Principi per il riuso delle riproduzioni digitali del patrimonio culturale e dei relativi metadati: https://docs.italia.it/italia/icdp/icdp-pnd-circolazione-riuso-docs/it/giugno-2022/principi-per-il-riuso-delle-riproduzioni-digitali-del-patrimonio-culturale-e-dei-relativi-metadati.html
+.. _Principi per il riuso delle riproduzioni digitali del patrimonio culturale e dei relativi metadati: https://docs.italia.it/italia/icdp/icdp-pnd-circolazione-riuso-docs/it/v1.0-giugno-2022/principi-per-il-riuso-delle-riproduzioni-digitali-del-patrimonio-culturale-e-dei-relativi-metadati.html
 
-.. _Modalità di pubblicazione online delle riproduzioni digitali e scelta delle licenze d’uso da adottare: https://docs.italia.it/italia/icdp/icdp-pnd-circolazione-riuso-docs/it/giugno-2022/modalita-di-pubblicazione-online-delle-riproduzioni-digitali-e-scelta-delle-licenze-duso-da-adottare.html
+.. _Modalità di pubblicazione online delle riproduzioni digitali e scelta delle licenze d’uso da adottare: https://docs.italia.it/italia/icdp/icdp-pnd-circolazione-riuso-docs/it/v1.0-giugno-2022/modalita-di-pubblicazione-online-delle-riproduzioni-digitali-e-scelta-delle-licenze-duso-da-adottare.html
 
 Per quanto riguarda il contesto italiano, esiste una specifica
 disciplina d’uso delle riproduzioni dei beni culturali, per la cui

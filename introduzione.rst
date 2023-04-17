@@ -22,7 +22,7 @@ Il documento illustra tre ambiti principali, tra loro interrelati:
    valore culturale, sociale ed economico (cfr. cap. :ref:`possibili_modelli_di_gestione`).
 
 L’obiettivo è fornire agli istituti culturali cui si rivolge il
-PND [1]_, in primis a quelli pubblici, una base conoscitiva per
+PND [1]_, *in primis* a quelli pubblici, una base conoscitiva per
 comprendere i pro e i contro delle soluzioni adottabili, dal momento che
 le scelte devono essere effettuate in funzione del grado di maturità
 digitale [2]_ e dopo aver attentamente valutato alcuni aspetti-chiave
@@ -30,7 +30,7 @@ digitale [2]_ e dopo aver attentamente valutato alcuni aspetti-chiave
 budget minimo, competenze interne, ecc.). Pertanto l’invito rivolto agli
 istituti culturali, seppur caratterizzati da sistemi organizzativi e
 scopi differenti, è quello di attingere alle conoscenze esposte nel
-presente documento e, commisurandole al proprio contesto , comprendere
+presente documento e, commisurandole al proprio contesto, comprendere
 come possano creare opportunità di sviluppo. La mappatura dei
 prodotti/servizi digitali, la definizione dei processi ad essi riferiti
 e il confronto dei modelli di gestione applicabili [3]_ sono strumenti
@@ -55,7 +55,7 @@ sostenibilità operativa raggiungibile a livello nazionale, risulta
 cruciale la possibilità-necessità di “fare sistema” adottando strategie
 comuni o comunque confrontabili.
 
-.. _Scopo del Piano e destinatari: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/giugno-2022/scopo-del-piano-e-destinatari.html
+.. _Scopo del Piano e destinatari: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/v1.0-giugno-2022/scopo-del-piano-e-destinatari.html
 
 .. [1] Cfr. `Scopo del Piano e destinatari`_, documento principale; in
    particolare: “Il PND costituisce la visione strategica con la quale
